@@ -1,0 +1,211 @@
+
+//////////////////////////////////////////////////////////////////////
+#include <Wire.h>
+#include <SPI.h>
+#include <SD.h>
+#include <SoftwareSerial.h>
+//////////////////////////////////////////////////////////////////////
+SoftwareSerial mySerial(4, 2); // RX, TX
+//////////////////////////////////////////////////////////////////////
+const int PIN_CHIP_SELECT = 4;
+struct dataStruct {
+  float temp;
+  float p;
+  unsigned long t;
+  float m;                //переменные которые отправляет нрф
+  float X_out;
+  float Y_out;            //adxl 345
+  float Z_out;
+
+  float Xa_out;
+  float Ya_out;            //mpu6050
+  float Za_out;
+
+  float Xg_out;
+  float Yg_out;            //mpu6050
+  float Zg_out;
+
+  float temp_mpu;
+
+  float Ratio_mq8;
+  float LPG_mq8;
+
+  float Ratio_mq2;
+  float LPG_mq2;
+  float Methane_mq2;
+  float Smoke_mq2;
+  float Hydrogen_mq2;
+
+  float Ratio_mq135;
+  float CO2_mq135;
+} data;
+
+void setup() {
+  Serial.begin(9600);
+  mySerial.begin(11500);
+
+
+  if (!SD.begin(PIN_CHIP_SELECT)) {
+    Serial.println("Card failed, or not present");
+    return;
+  }
+  Serial.println("card initialized.");
+}
+
+void loop() {
+  if (mySerial.readBytes((byte*)&data, sizeof(data))) {
+    Serial.print(F("Temperature= "));
+    Serial.print(data.temp);
+    Serial.print(" *C ");
+
+    Serial.print(F("Pressure = "));
+    Serial.print(data.p);                    // вывод в сиреал
+    Serial.print(" Pa ");
+
+    Serial.print(F("Altitude= "));
+    Serial.print(data.m);
+    Serial.print(" m ");
+
+    Serial.print("__MQ8sensor: ");
+
+    //Serial.print("Ro = ");
+    //Serial.print(mq8.getRo());
+
+    Serial.print("Ratio: ");
+    Serial.print(data.Ratio_mq8);
+    // выводим значения газов в ppm
+    Serial.print(" LPG: ");
+    Serial.print(data.Ratio_mq8);
+    Serial.print(" ppm(%/10000) ");
+
+    Serial.print("__MQ2sensor: ");
+
+    //Serial.print("Ro = ");
+    //Serial.print(mq2.getRo());
+
+    Serial.print("Ratio: ");
+    Serial.print(data.Ratio_mq2);
+    // выводим значения газов в ppm
+    Serial.print(" LPG: ");
+    Serial.print(data.LPG_mq2);
+    Serial.print(" ppm ");
+    Serial.print("Methane: ");
+    Serial.print(data.Methane_mq2);
+    Serial.print(" ppm ");
+    Serial.print("Smoke: ");
+    Serial.print(data.Smoke_mq2);
+    Serial.print(" ppm ");
+    Serial.print("Hydrogen: ");
+    Serial.print(data.Hydrogen_mq2);
+    Serial.print(" ppm ");
+
+    Serial.print("__MQ135sensor: ");
+
+    //Serial.print("Ro = ");
+    //Serial.print(mq135.getRo());
+
+    Serial.print("Ratio: ");
+    Serial.print(data.Ratio_mq135);
+    // выводим значения газов в ppm
+    //Serial.print("\tLPG: ");
+    //Serial.print(mq135.readLPG());
+    Serial.print(" CO2: ");
+    Serial.print(data.CO2_mq135);
+    Serial.print(" ppm");
+    /*
+      Serial.print(" ADXL345_axel_XYZ: ");
+      Serial.print(data.X_out);
+      Serial.print(" ");
+      Serial.print(data.X_out);     //ADXL345 axel
+      Serial.print(" ");
+      Serial.print(data.X_out);*/
+
+    Serial.print(" mpu_axel_XYZ: ");
+    Serial.print(data.Xa_out);
+    Serial.print(" ");
+    Serial.print(data.Ya_out);    //mpu6050 axel
+    Serial.print(" ");
+    Serial.print(data.Za_out);
+
+    Serial.print(" mpu_giro_XYZ: ");
+    Serial.print(data.Xg_out);
+    Serial.print(" ");
+    Serial.print(data.Yg_out);    //mpu6050 giro
+    Serial.print(" ");
+    Serial.print(data.Zg_out);
+
+    Serial.print(" mpu_temp: ");
+    Serial.print(data.temp_mpu);
+
+    Serial.println();
+  }
+  File dataFile = SD.open("datalog.txt", FILE_WRITE);
+
+  if (dataFile) {
+    dataFile.print(F("Temperature = "));
+    dataFile.print(data.temp);
+    dataFile.print(" *C   ");
+
+    dataFile.print(F("Pressure = "));
+    dataFile.print(data.p);                    // вывод в сиреал
+    dataFile.print(" Pa   ");
+
+    dataFile.print(F("Altitude = "));
+    dataFile.print(data.m);
+    dataFile.print(" m");
+
+    dataFile.print("|||MQ2sensor||| :  ");
+
+    //dataFile.print("Ro = ");
+    //dataFile.print(mq8.getRo());
+
+    dataFile.print("  Ratio: ");
+    dataFile.print(data.Ratio_mq8);
+    // выводим значения газов в ppm
+    dataFile.print("LPG: ");
+    dataFile.print(data.Ratio_mq8);
+    dataFile.print(" ppm ( %/10000)");
+
+    dataFile.print("|||MQ2sensor||| :  ");
+
+    //dataFile.print("Ro = ");
+    //dataFile.print(mq2.getRo());
+
+    dataFile.print("\tRatio: ");
+    dataFile.print(data.Ratio_mq2);
+    // выводим значения газов в ppm
+    dataFile.print("\tLPG: ");
+    dataFile.print(data.LPG_mq2);
+    dataFile.print(" ppm");
+    dataFile.print("\tMethane: ");
+    dataFile.print(data.Methane_mq2);
+    dataFile.print(" ppm");
+    dataFile.print("\tSmoke: ");
+    dataFile.print(data.Smoke_mq2);
+    dataFile.print(" ppm");
+    dataFile.print("\tHydrogen: ");
+    dataFile.print(data.Hydrogen_mq2);
+    dataFile.print(" ppm");
+
+    dataFile.print("|||MQ135sensor||| :  ");
+
+    //dataFile.print("Ro = ");
+    //dataFile.print(mq135.getRo());
+
+    dataFile.print("Ratio: ");
+    dataFile.print(data.Ratio_mq135);
+    // выводим значения газов в ppm
+    //dataFile.print("\tLPG: ");
+    //dataFile.print(mq135.readLPG());
+    dataFile.print("\tCO2: ");
+    dataFile.print(data.CO2_mq135);
+    dataFile.print(" ppm");
+
+    dataFile.println();
+    dataFile.close();
+  }
+  else {
+    Serial.println("error opening datalog.txt");
+
+  }
+}

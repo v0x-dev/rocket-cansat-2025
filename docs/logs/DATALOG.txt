@@ -1,0 +1,1872 @@
+Xa= -1.03...Ya= -0.36...Za= -0.04...Temperature = 18.71 *C...Pressure = 962.08 Pa...Altitude = 410.21
+ m
+Xa= -0.94...Ya= -0.13...Za= 0.05...Temperature = 19.09 *C...Pressure = 962.11 Pa...Altitude = 410.01
+ m
+Xa= -1.00...Ya= -0.15...Za= -0.05...Temperature = 19.11 *C...Pressure = 962.16 Pa...Altitude = 409.57
+ m
+Xa= -1.00...Ya= -0.41...Za= -0.19...Temperature = 19.11 *C...Pressure = 962.14 Pa...Altitude = 409.70
+ m
+Xa= -0.82...Ya= -0.15...Za= -0.39...Temperature = 19.12 *C...Pressure = 962.14 Pa...Altitude = 409.73
+ m
+Xa= -0.71...Ya= -0.04...Za= -0.28...Temperature = 19.12 *C...Pressure = 962.16 Pa...Altitude = 409.51
+ m
+Xa= -0.93...Ya= -0.09...Za= -0.25...Temperature = 19.14 *C...Pressure = 962.14 Pa...Altitude = 409.74
+ m
+Xa= -1.13...Ya= 0.05...Za= 0.07...Temperature = 19.17 *C...Pressure = 962.13 Pa...Altitude = 409.80
+ m
+Xa= -0.37...Ya= 0.65...Za= 0.55...Temperature = 19.17 *C...Pressure = 962.12 Pa...Altitude = 409.92
+ m
+Xa= -0.33...Ya= 0.90...Za= 0.75...Temperature = 19.18 *C...Pressure = 962.12 Pa...Altitude = 409.85
+ m
+Xa= -0.06...Ya= 0.98...Za= 0.47...Temperature = 19.19 *C...Pressure = 962.17 Pa...Altitude = 409.49
+ m
+Xa= -0.09...Ya= 0.95...Za= 0.91...Temperature = 19.18 *C...Pressure = 962.85 Pa...Altitude = 403.57
+ m
+Xa= -0.34...Ya= 0.95...Za= 0.65...Temperature = 19.17 *C...Pressure = 963.01 Pa...Altitude = 402.13
+ m
+Xa= -0.32...Ya= 0.76...Za= 0.88...Temperature = 19.15 *C...Pressure = 962.12 Pa...Altitude = 409.87
+ m
+Xa= -0.23...Ya= 0.98...Za= 0.56...Temperature = 19.15 *C...Pressure = 962.14 Pa...Altitude = 409.72
+ m
+Xa= -0.03...Ya= 1.03...Za= 0.39...Temperature = 19.15 *C...Pressure = 962.14 Pa...Altitude = 409.74
+ m
+Xa= -0.06...Ya= 1.04...Za= 0.36...Temperature = 19.15 *C...Pressure = 962.17 Pa...Altitude = 409.46
+ m
+Xa= -0.16...Ya= 0.98...Za= 0.37...Temperature = 19.16 *C...Pressure = 962.13 Pa...Altitude = 409.78
+ m
+Xa= -0.20...Ya= 1.02...Za= 0.29...Temperature = 19.17 *C...Pressure = 962.11 Pa...Altitude = 409.99
+ m
+Xa= -0.41...Ya= 0.75...Za= 0.43...Temperature = 19.17 *C...Pressure = 962.12 Pa...Altitude = 409.88
+ m
+Xa= -0.34...Ya= 0.92...Za= 0.52...Temperature = 19.19 *C...Pressure = 962.08 Pa...Altitude = 410.22
+ m
+Xa= -0.39...Ya= 0.86...Za= 0.17...Temperature = 19.19 *C...Pressure = 962.10 Pa...Altitude = 410.05
+ m
+Xa= -0.49...Ya= 0.91...Za= 0.11...Temperature = 19.21 *C...Pressure = 962.09 Pa...Altitude = 410.16
+ m
+Xa= -0.38...Ya= 1.01...Za= 0.58...Temperature = 19.22 *C...Pressure = 967.19 Pa...Altitude = 365.96
+ m
+Xa= -0.66...Ya= 0.75...Za= -0.11...Temperature = 19.23 *C...Pressure = 962.08 Pa...Altitude = 410.24
+ m
+Xa= -0.25...Ya= -0.31...Za= -0.54...Temperature = 19.24 *C...Pressure = 961.95 Pa...Altitude = 411.39
+ m
+Xa= -0.21...Ya= 0.02...Za= -0.77...Temperature = 19.25 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= 0.04...Ya= 0.11...Za= -0.80...Temperature = 19.26 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= 0.00...Ya= 0.16...Za= -0.69...Temperature = 19.27 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.28...Ya= 0.11...Za= -0.75...Temperature = 19.29 *C...Pressure = 962.02 Pa...Altitude = 410.75
+ m
+Xa= 0.01...Ya= -0.16...Za= -0.83...Temperature = 19.30 *C...Pressure = 962.03 Pa...Altitude = 410.63
+ m
+Xa= -0.14...Ya= -0.11...Za= -0.71...Temperature = 19.31 *C...Pressure = 961.30 Pa...Altitude = 416.99
+ m
+Xa= 0.02...Ya= 0.05...Za= -0.78...Temperature = 19.32 *C...Pressure = 962.36 Pa...Altitude = 407.76
+ m
+Xa= -0.07...Ya= -0.10...Za= -1.00...Temperature = 19.33 *C...Pressure = 962.00 Pa...Altitude = 410.93
+ m
+Xa= 0.18...Ya= 0.00...Za= -0.84...Temperature = 19.35 *C...Pressure = 961.66 Pa...Altitude = 413.92
+ m
+Xa= 0.10...Ya= -0.05...Za= -0.70...Temperature = 19.35 *C...Pressure = 961.50 Pa...Altitude = 415.29
+ m
+Xa= 0.14...Ya= 0.00...Za= -0.69...Temperature = 19.36 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.05...Ya= -0.04...Za= -0.86...Temperature = 19.38 *C...Pressure = 963.48 Pa...Altitude = 398.10
+ m
+Xa= 0.03...Ya= 0.11...Za= -0.79...Temperature = 19.38 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.20...Ya= 0.02...Za= -0.76...Temperature = 19.39 *C...Pressure = 962.02 Pa...Altitude = 410.73
+ m
+Xa= -0.19...Ya= -0.20...Za= -0.63...Temperature = 19.40 *C...Pressure = 961.94 Pa...Altitude = 411.41
+ m
+Xa= -0.16...Ya= -0.06...Za= -0.66...Temperature = 19.41 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.31...Ya= -0.11...Za= -0.89...Temperature = 19.41 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= -0.66...Ya= -0.65...Za= -0.73...Temperature = 19.42 *C...Pressure = 962.03 Pa...Altitude = 410.69
+ m
+Xa= 0.00...Ya= 0.02...Za= -0.78...Temperature = 19.42 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.22...Ya= 0.16...Za= -0.64...Temperature = 19.43 *C...Pressure = 962.00 Pa...Altitude = 410.95
+ m
+Xa= -0.11...Ya= 0.09...Za= -0.54...Temperature = 19.43 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= 0.17...Ya= 0.09...Za= -0.48...Temperature = 19.43 *C...Pressure = 961.91 Pa...Altitude = 411.70
+ m
+Xa= -0.45...Ya= -0.08...Za= -0.21...Temperature = 19.44 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.47...Ya= -0.20...Za= 0.15...Temperature = 19.44 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.53...Ya= -0.20...Za= 0.11...Temperature = 19.45 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.53...Ya= -0.23...Za= 0.08...Temperature = 19.45 *C...Pressure = 962.07 Pa...Altitude = 410.28
+ m
+Xa= -1.17...Ya= -0.54...Za= 0.04...Temperature = 19.45 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.84...Ya= -0.34...Za= 0.12...Temperature = 19.45 *C...Pressure = 962.08 Pa...Altitude = 410.26
+ m
+Xa= -0.82...Ya= -0.50...Za= 0.09...Temperature = 19.45 *C...Pressure = 962.04 Pa...Altitude = 410.62
+ m
+Xa= -1.28...Ya= -0.24...Za= -0.05...Temperature = 19.45 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= -1.16...Ya= -0.63...Za= -0.62...Temperature = 19.45 *C...Pressure = 962.02 Pa...Altitude = 410.78
+ m
+Xa= -0.85...Ya= -0.49...Za= -0.79...Temperature = 19.45 *C...Pressure = 961.99 Pa...Altitude = 411.02
+ m
+Xa= -0.88...Ya= -0.47...Za= -0.57...Temperature = 19.45 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.71...Ya= -0.43...Za= -0.43...Temperature = 19.44 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= -0.68...Ya= -0.13...Za= -0.47...Temperature = 19.45 *C...Pressure = 961.99 Pa...Altitude = 411.06
+ m
+Xa= -0.50...Ya= 0.07...Za= -0.53...Temperature = 19.44 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= -0.07...Ya= -0.05...Za= -0.68...Temperature = 19.44 *C...Pressure = 961.94 Pa...Altitude = 411.44
+ m
+Xa= -0.22...Ya= 0.10...Za= -0.77...Temperature = 19.43 *C...Pressure = 961.94 Pa...Altitude = 411.44
+ m
+Xa= -0.17...Ya= -0.05...Za= -0.80...Temperature = 19.43 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= -0.18...Ya= 0.11...Za= -0.74...Temperature = 19.43 *C...Pressure = 961.98 Pa...Altitude = 411.14
+ m
+Xa= 0.01...Ya= 0.11...Za= -0.43...Temperature = 19.42 *C...Pressure = 961.98 Pa...Altitude = 411.10
+ m
+Xa= -0.38...Ya= -0.13...Za= -0.50...Temperature = 19.42 *C...Pressure = 961.99 Pa...Altitude = 411.05
+ m
+Xa= -0.92...Ya= -0.01...Za= -0.96...Temperature = 19.42 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= -0.48...Ya= 0.01...Za= -0.82...Temperature = 19.41 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= -0.11...Ya= 0.03...Za= -0.84...Temperature = 19.41 *C...Pressure = 962.17 Pa...Altitude = 409.47
+ m
+Xa= -0.21...Ya= -0.00...Za= -0.75...Temperature = 19.40 *C...Pressure = 961.92 Pa...Altitude = 411.64
+ m
+Xa= -0.12...Ya= -0.04...Za= -0.73...Temperature = 19.40 *C...Pressure = 961.97 Pa...Altitude = 411.08
+ m
+Xa= 0.00...Ya= -0.13...Za= -0.70...Temperature = 19.39 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= 0.02...Ya= 0.01...Za= -0.75...Temperature = 19.38 *C...Pressure = 961.97 Pa...Altitude = 411.16
+ m
+Xa= -0.55...Ya= -0.04...Za= -0.54...Temperature = 19.38 *C...Pressure = 961.45 Pa...Altitude = 415.67
+ m
+Xa= 0.05...Ya= -0.04...Za= -0.54...Temperature = 19.37 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.16...Ya= 0.04...Za= -0.84...Temperature = 19.36 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= -0.08...Ya= -0.45...Za= -0.82...Temperature = 19.36 *C...Pressure = 962.09 Pa...Altitude = 410.17
+ m
+Xa= -0.23...Ya= -0.02...Za= -0.81...Temperature = 19.35 *C...Pressure = 961.95 Pa...Altitude = 411.34
+ m
+Xa= -0.11...Ya= -0.18...Za= -0.76...Temperature = 19.34 *C...Pressure = 961.97 Pa...Altitude = 411.18
+ m
+Xa= -0.14...Ya= 0.06...Za= -0.61...Temperature = 19.33 *C...Pressure = 962.02 Pa...Altitude = 410.74
+ m
+Xa= 0.09...Ya= -0.07...Za= -0.99...Temperature = 19.32 *C...Pressure = 962.16 Pa...Altitude = 409.55
+ m
+Xa= -0.17...Ya= 0.11...Za= -0.70...Temperature = 19.31 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= -0.03...Ya= 0.05...Za= -0.46...Temperature = 19.31 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.01...Ya= -0.06...Za= -1.02...Temperature = 19.29 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= -0.09...Ya= -0.02...Za= -0.79...Temperature = 19.28 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= -0.14...Ya= 0.11...Za= -0.16...Temperature = 19.27 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= -0.10...Ya= -0.18...Za= -0.60...Temperature = 19.26 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= 0.01...Ya= -0.07...Za= -0.95...Temperature = 19.26 *C...Pressure = 962.10 Pa...Altitude = 410.04
+ m
+Xa= -0.21...Ya= 0.27...Za= -0.73...Temperature = 19.25 *C...Pressure = 962.04 Pa...Altitude = 410.63
+ m
+Xa= -0.16...Ya= -0.23...Za= -0.96...Temperature = 19.23 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.09...Ya= 0.01...Za= -0.45...Temperature = 19.23 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.11...Ya= -0.24...Za= -0.70...Temperature = 19.21 *C...Pressure = 962.13 Pa...Altitude = 409.84
+ m
+Xa= -0.08...Ya= -0.60...Za= -1.09...Temperature = 19.20 *C...Pressure = 961.99 Pa...Altitude = 411.02
+ m
+Xa= 0.07...Ya= -0.18...Za= -0.92...Temperature = 19.20 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= 0.00...Ya= -0.05...Za= -0.48...Temperature = 19.18 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= 0.12...Ya= 0.01...Za= -0.43...Temperature = 19.18 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.15...Ya= 0.06...Za= -0.52...Temperature = 19.17 *C...Pressure = 961.90 Pa...Altitude = 411.82
+ m
+Xa= -0.09...Ya= -0.06...Za= -0.43...Temperature = 19.16 *C...Pressure = 962.02 Pa...Altitude = 410.73
+ m
+Xa= -0.07...Ya= 0.20...Za= -0.32...Temperature = 19.15 *C...Pressure = 961.90 Pa...Altitude = 411.84
+ m
+Xa= -0.02...Ya= 0.14...Za= -0.44...Temperature = 19.14 *C...Pressure = 962.14 Pa...Altitude = 409.70
+ m
+Xa= 0.14...Ya= -0.05...Za= -0.58...Temperature = 19.13 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= 0.02...Ya= -0.18...Za= -0.99...Temperature = 19.12 *C...Pressure = 962.07 Pa...Altitude = 410.29
+ m
+Xa= 0.04...Ya= -0.39...Za= -0.90...Temperature = 19.10 *C...Pressure = 962.11 Pa...Altitude = 409.97
+ m
+Xa= -0.10...Ya= -0.68...Za= -1.00...Temperature = 19.10 *C...Pressure = 961.93 Pa...Altitude = 411.52
+ m
+Xa= 0.00...Ya= -0.27...Za= -0.76...Temperature = 19.08 *C...Pressure = 961.98 Pa...Altitude = 411.14
+ m
+Xa= 0.03...Ya= -0.10...Za= -0.46...Temperature = 19.07 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= 0.04...Ya= -0.07...Za= -0.31...Temperature = 19.07 *C...Pressure = 962.02 Pa...Altitude = 410.78
+ m
+Xa= 0.11...Ya= -0.24...Za= -0.58...Temperature = 19.06 *C...Pressure = 962.00 Pa...Altitude = 410.90
+ m
+Xa= 0.21...Ya= -0.36...Za= -0.76...Temperature = 19.05 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.23...Ya= -0.00...Za= -0.91...Temperature = 19.04 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.07...Ya= -0.12...Za= -0.75...Temperature = 19.03 *C...Pressure = 961.93 Pa...Altitude = 411.51
+ m
+Xa= 0.08...Ya= 0.10...Za= -0.53...Temperature = 19.02 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= -0.04...Ya= 0.12...Za= -0.40...Temperature = 19.01 *C...Pressure = 961.99 Pa...Altitude = 411.05
+ m
+Xa= 0.00...Ya= 0.11...Za= -0.43...Temperature = 19.00 *C...Pressure = 961.95 Pa...Altitude = 411.34
+ m
+Xa= -0.06...Ya= 0.20...Za= -0.51...Temperature = 18.98 *C...Pressure = 961.92 Pa...Altitude = 411.64
+ m
+Xa= -0.11...Ya= 0.13...Za= -0.86...Temperature = 18.98 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= 0.01...Ya= 0.08...Za= -0.71...Temperature = 18.96 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= -0.06...Ya= 0.12...Za= -0.48...Temperature = 18.94 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= -0.08...Ya= 0.11...Za= -0.38...Temperature = 18.94 *C...Pressure = 961.86 Pa...Altitude = 412.17
+ m
+Xa= -0.04...Ya= 0.16...Za= -0.61...Temperature = 18.92 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= -0.03...Ya= 0.14...Za= -0.54...Temperature = 18.91 *C...Pressure = 961.97 Pa...Altitude = 411.21
+ m
+Xa= -0.01...Ya= 0.06...Za= -0.91...Temperature = 18.90 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= -0.12...Ya= -0.12...Za= -0.91...Temperature = 18.90 *C...Pressure = 961.92 Pa...Altitude = 411.59
+ m
+Xa= 0.08...Ya= -0.14...Za= -1.06...Temperature = 18.89 *C...Pressure = 961.98 Pa...Altitude = 410.88
+ m
+Xa= -0.25...Ya= -0.41...Za= -1.21...Temperature = 18.87 *C...Pressure = 962.08 Pa...Altitude = 410.22
+ m
+Xa= 0.05...Ya= 0.10...Za= -0.47...Temperature = 18.86 *C...Pressure = 961.98 Pa...Altitude = 411.14
+ m
+Xa= -0.21...Ya= 0.10...Za= -0.92...Temperature = 18.85 *C...Pressure = 961.89 Pa...Altitude = 411.89
+ m
+Xa= 0.01...Ya= 0.04...Za= -0.80...Temperature = 18.84 *C...Pressure = 961.92 Pa...Altitude = 411.65
+ m
+Xa= -0.08...Ya= -0.13...Za= -0.86...Temperature = 18.83 *C...Pressure = 961.96 Pa...Altitude = 411.32
+ m
+Xa= -0.03...Ya= 0.04...Za= -0.71...Temperature = 18.82 *C...Pressure = 961.91 Pa...Altitude = 411.69
+ m
+Xa= 0.08...Ya= 0.23...Za= -0.64...Temperature = 18.81 *C...Pressure = 961.94 Pa...Altitude = 411.41
+ m
+Xa= 0.12...Ya= -0.01...Za= -0.46...Temperature = 18.80 *C...Pressure = 961.90 Pa...Altitude = 411.77
+ m
+Xa= 0.03...Ya= -0.13...Za= -0.73...Temperature = 18.79 *C...Pressure = 961.94 Pa...Altitude = 411.42
+ m
+Xa= 0.01...Ya= -0.20...Za= -0.71...Temperature = 18.78 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= -0.01...Ya= -0.18...Za= -0.72...Temperature = 18.77 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= 0.01...Ya= -0.29...Za= -0.79...Temperature = 18.76 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= 0.00...Ya= -0.19...Za= -0.78...Temperature = 18.75 *C...Pressure = 961.97 Pa...Altitude = 411.15
+ m
+Xa= -0.12...Ya= 0.06...Za= -0.75...Temperature = 18.74 *C...Pressure = 961.93 Pa...Altitude = 411.57
+ m
+Xa= 0.01...Ya= -0.04...Za= -0.70...Temperature = 18.73 *C...Pressure = 961.93 Pa...Altitude = 411.56
+ m
+Xa= 0.10...Ya= -0.17...Za= -0.80...Temperature = 18.72 *C...Pressure = 961.97 Pa...Altitude = 411.18
+ m
+Xa= 0.03...Ya= -0.14...Za= -0.75...Temperature = 18.71 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= -0.13...Ya= -0.20...Za= -0.77...Temperature = 18.70 *C...Pressure = 961.93 Pa...Altitude = 411.56
+ m
+Xa= -0.05...Ya= -0.10...Za= -0.75...Temperature = 18.69 *C...Pressure = 961.95 Pa...Altitude = 411.44
+ m
+Xa= -0.08...Ya= -0.11...Za= -0.75...Temperature = 18.69 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= -0.08...Ya= -0.15...Za= -0.76...Temperature = 18.67 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= -0.06...Ya= -0.15...Za= -0.76...Temperature = 18.66 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.01...Ya= -0.05...Za= -0.75...Temperature = 18.65 *C...Pressure = 962.10 Pa...Altitude = 410.03
+ m
+Xa= -0.05...Ya= -0.07...Za= -0.75...Temperature = 18.64 *C...Pressure = 961.96 Pa...Altitude = 411.30
+ m
+Xa= -0.12...Ya= -0.07...Za= -0.75...Temperature = 18.63 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= 0.02...Ya= -0.10...Za= -0.77...Temperature = 18.62 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.03...Ya= -0.09...Za= -0.76...Temperature = 18.62 *C...Pressure = 962.01 Pa...Altitude = 410.88
+ m
+Xa= -0.01...Ya= -0.10...Za= -0.76...Temperature = 18.61 *C...Pressure = 961.99 Pa...Altitude = 411.00
+ m
+Xa= -0.00...Ya= -0.07...Za= -0.75...Temperature = 18.60 *C...Pressure = 961.98 Pa...Altitude = 411.08
+ m
+Xa= -0.00...Ya= -0.11...Za= -0.75...Temperature = 18.60 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.06...Ya= -0.09...Za= -0.77...Temperature = 18.59 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= -0.07...Ya= -0.02...Za= -0.72...Temperature = 18.58 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= -0.05...Ya= -0.06...Za= -0.73...Temperature = 18.58 *C...Pressure = 961.97 Pa...Altitude = 411.16
+ m
+Xa= -0.03...Ya= -0.09...Za= -0.75...Temperature = 18.57 *C...Pressure = 962.00 Pa...Altitude = 410.91
+ m
+Xa= -0.01...Ya= -0.10...Za= -0.75...Temperature = 18.56 *C...Pressure = 961.98 Pa...Altitude = 411.09
+ m
+Xa= -0.01...Ya= -0.09...Za= -0.75...Temperature = 18.55 *C...Pressure = 961.99 Pa...Altitude = 410.99
+ m
+Xa= -0.03...Ya= -0.10...Za= -0.75...Temperature = 18.55 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.11...Ya= -0.12...Za= -0.74...Temperature = 18.54 *C...Pressure = 961.98 Pa...Altitude = 411.08
+ m
+Xa= -0.04...Ya= -0.10...Za= -0.75...Temperature = 18.53 *C...Pressure = 961.98 Pa...Altitude = 411.12
+ m
+Xa= -0.05...Ya= -0.10...Za= -0.75...Temperature = 18.53 *C...Pressure = 962.00 Pa...Altitude = 410.93
+ m
+Xa= -0.08...Ya= -0.11...Za= -0.77...Temperature = 18.52 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.05...Ya= -0.09...Za= -0.75...Temperature = 18.51 *C...Pressure = 961.99 Pa...Altitude = 411.00
+ m
+Xa= -0.01...Ya= -0.08...Za= -0.75...Temperature = 18.51 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= -0.02...Ya= -0.09...Za= -0.75...Temperature = 18.51 *C...Pressure = 961.99 Pa...Altitude = 411.06
+ m
+Xa= -0.03...Ya= -0.12...Za= -0.75...Temperature = 18.50 *C...Pressure = 962.01 Pa...Altitude = 410.81
+ m
+Xa= -0.08...Ya= -0.10...Za= -0.75...Temperature = 18.50 *C...Pressure = 962.03 Pa...Altitude = 410.64
+ m
+Xa= -0.20...Ya= -0.14...Za= -0.89...Temperature = 18.50 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.01...Ya= 0.00...Za= -0.73...Temperature = 18.49 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.16...Ya= -0.04...Za= -0.75...Temperature = 18.49 *C...Pressure = 961.99 Pa...Altitude = 411.01
+ m
+Xa= -0.05...Ya= -0.06...Za= -0.78...Temperature = 18.48 *C...Pressure = 962.00 Pa...Altitude = 410.96
+ m
+Xa= -0.06...Ya= -0.09...Za= -0.76...Temperature = 18.48 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= -0.00...Ya= -0.05...Za= -0.79...Temperature = 18.47 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.02...Ya= -0.08...Za= -0.74...Temperature = 18.47 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= -0.02...Ya= -0.07...Za= -0.75...Temperature = 18.46 *C...Pressure = 962.01 Pa...Altitude = 410.83
+ m
+Xa= -0.07...Ya= -0.09...Za= -0.76...Temperature = 18.46 *C...Pressure = 962.00 Pa...Altitude = 410.96
+ m
+Xa= 0.02...Ya= 0.10...Za= -0.75...Temperature = 18.45 *C...Pressure = 962.00 Pa...Altitude = 411.08
+ m
+Xa= 0.01...Ya= -0.02...Za= -0.75...Temperature = 18.44 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= 0.00...Ya= -0.05...Za= -0.76...Temperature = 18.44 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.01...Ya= -0.22...Za= -0.76...Temperature = 18.43 *C...Pressure = 962.02 Pa...Altitude = 410.80
+ m
+Xa= 0.00...Ya= -0.21...Za= -0.76...Temperature = 18.43 *C...Pressure = 962.06 Pa...Altitude = 410.81
+ m
+Xa= -0.04...Ya= 0.00...Za= -0.72...Temperature = 18.43 *C...Pressure = 962.04 Pa...Altitude = 410.62
+ m
+Xa= -0.01...Ya= -0.14...Za= -0.75...Temperature = 18.42 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.07...Ya= -0.19...Za= -0.73...Temperature = 18.42 *C...Pressure = 962.06 Pa...Altitude = 410.38
+ m
+Xa= -0.07...Ya= -0.02...Za= -0.75...Temperature = 18.41 *C...Pressure = 962.06 Pa...Altitude = 410.32
+ m
+Xa= -0.09...Ya= -0.10...Za= -0.71...Temperature = 18.41 *C...Pressure = 962.06 Pa...Altitude = 410.40
+ m
+Xa= -0.06...Ya= -0.12...Za= -0.75...Temperature = 18.40 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.00...Ya= -0.17...Za= -0.75...Temperature = 18.39 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= -0.04...Ya= -0.16...Za= -0.74...Temperature = 18.39 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= -0.06...Ya= -0.20...Za= -0.71...Temperature = 18.39 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.00...Ya= -0.18...Za= -0.79...Temperature = 18.38 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.05...Ya= -0.16...Za= -0.74...Temperature = 18.38 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.04...Ya= -0.15...Za= -0.75...Temperature = 18.37 *C...Pressure = 962.07 Pa...Altitude = 410.29
+ m
+Xa= -0.09...Ya= -0.13...Za= -0.74...Temperature = 18.37 *C...Pressure = 962.11 Pa...Altitude = 409.95
+ m
+Xa= -0.04...Ya= -0.16...Za= -0.75...Temperature = 18.36 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.05...Ya= -0.15...Za= -0.74...Temperature = 18.36 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.01...Ya= -0.14...Za= -0.75...Temperature = 18.35 *C...Pressure = 962.04 Pa...Altitude = 410.62
+ m
+Xa= -0.01...Ya= -0.14...Za= -0.74...Temperature = 18.35 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.02...Ya= -0.14...Za= -0.73...Temperature = 18.34 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.02...Ya= -0.15...Za= -0.74...Temperature = 18.34 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.02...Ya= -0.13...Za= -0.74...Temperature = 18.33 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= 0.00...Ya= -0.05...Za= -0.75...Temperature = 18.33 *C...Pressure = 962.06 Pa...Altitude = 410.38
+ m
+Xa= -0.04...Ya= -0.11...Za= -0.78...Temperature = 18.32 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= 0.00...Ya= -0.10...Za= -0.75...Temperature = 18.32 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= 0.06...Ya= -0.19...Za= -0.69...Temperature = 18.32 *C...Pressure = 962.06 Pa...Altitude = 410.38
+ m
+Xa= 0.03...Ya= -0.16...Za= -0.74...Temperature = 18.31 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= 0.04...Ya= -0.18...Za= -0.74...Temperature = 18.30 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= 0.02...Ya= -0.13...Za= -0.74...Temperature = 18.30 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= 0.05...Ya= -0.13...Za= -0.75...Temperature = 18.29 *C...Pressure = 962.06 Pa...Altitude = 410.38
+ m
+Xa= -0.01...Ya= -0.16...Za= -0.76...Temperature = 18.29 *C...Pressure = 962.04 Pa...Altitude = 410.61
+ m
+Xa= -0.00...Ya= -0.17...Za= -0.74...Temperature = 18.28 *C...Pressure = 962.03 Pa...Altitude = 410.63
+ m
+Xa= 0.04...Ya= -0.15...Za= -0.75...Temperature = 18.28 *C...Pressure = 962.04 Pa...Altitude = 410.61
+ m
+Xa= 0.02...Ya= -0.14...Za= -0.75...Temperature = 18.28 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= 0.02...Ya= -0.14...Za= -0.75...Temperature = 18.27 *C...Pressure = 962.02 Pa...Altitude = 410.76
+ m
+Xa= 0.01...Ya= -0.17...Za= -0.75...Temperature = 18.27 *C...Pressure = 962.02 Pa...Altitude = 410.76
+ m
+Xa= 0.04...Ya= -0.15...Za= -0.75...Temperature = 18.26 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= -0.04...Ya= -0.14...Za= -0.74...Temperature = 18.26 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.03...Ya= -0.16...Za= -0.74...Temperature = 18.25 *C...Pressure = 962.08 Pa...Altitude = 410.27
+ m
+Xa= -0.03...Ya= -0.14...Za= -0.74...Temperature = 18.24 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= 0.00...Ya= -0.15...Za= -0.74...Temperature = 18.24 *C...Pressure = 962.07 Pa...Altitude = 410.29
+ m
+Xa= 0.00...Ya= -0.15...Za= -0.74...Temperature = 18.23 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= 0.00...Ya= -0.15...Za= -0.75...Temperature = 18.23 *C...Pressure = 962.04 Pa...Altitude = 410.62
+ m
+Xa= 0.00...Ya= -0.16...Za= -0.74...Temperature = 18.23 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= 0.00...Ya= -0.15...Za= -0.75...Temperature = 18.22 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.00...Ya= -0.15...Za= -0.75...Temperature = 18.22 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.05...Ya= -0.14...Za= -0.75...Temperature = 18.22 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.03...Ya= -0.16...Za= -0.74...Temperature = 18.21 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.04...Ya= -0.20...Za= -0.73...Temperature = 18.20 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.03...Ya= -0.18...Za= -0.73...Temperature = 18.20 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= 0.00...Ya= -0.18...Za= -0.75...Temperature = 18.19 *C...Pressure = 962.04 Pa...Altitude = 410.61
+ m
+Xa= -0.04...Ya= -0.17...Za= -0.76...Temperature = 18.19 *C...Pressure = 962.03 Pa...Altitude = 410.64
+ m
+Xa= -0.03...Ya= -0.16...Za= -0.74...Temperature = 18.19 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.03...Ya= -0.18...Za= -0.75...Temperature = 18.18 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= -0.03...Ya= -0.17...Za= -0.74...Temperature = 18.18 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.04...Ya= -0.18...Za= -0.75...Temperature = 18.18 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.02...Ya= -0.16...Za= -0.75...Temperature = 18.17 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.03...Ya= -0.16...Za= -0.75...Temperature = 18.17 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= -0.02...Ya= -0.18...Za= -0.75...Temperature = 18.16 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.04...Ya= -0.16...Za= -0.74...Temperature = 18.16 *C...Pressure = 962.02 Pa...Altitude = 410.73
+ m
+Xa= -0.04...Ya= -0.18...Za= -0.75...Temperature = 18.16 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= 0.03...Ya= -0.18...Za= -0.75...Temperature = 18.15 *C...Pressure = 962.02 Pa...Altitude = 410.73
+ m
+Xa= 0.02...Ya= -0.13...Za= -0.76...Temperature = 18.15 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.03...Ya= -0.06...Za= -0.73...Temperature = 18.14 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.01...Ya= -0.10...Za= -0.75...Temperature = 18.14 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.02...Ya= -0.10...Za= -0.74...Temperature = 18.13 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.01...Ya= -0.11...Za= -0.75...Temperature = 18.13 *C...Pressure = 962.06 Pa...Altitude = 410.38
+ m
+Xa= -0.11...Ya= -0.11...Za= -0.68...Temperature = 18.13 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= -0.11...Ya= -0.03...Za= -0.74...Temperature = 18.12 *C...Pressure = 962.13 Pa...Altitude = 409.81
+ m
+Xa= -0.03...Ya= -0.09...Za= -0.77...Temperature = 18.12 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= 0.13...Ya= -0.10...Za= -0.76...Temperature = 18.12 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.14...Ya= 0.02...Za= -0.75...Temperature = 18.11 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.07...Ya= -0.00...Za= -0.75...Temperature = 18.11 *C...Pressure = 962.05 Pa...Altitude = 410.42
+ m
+Xa= -0.04...Ya= -0.09...Za= -0.74...Temperature = 18.10 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.01...Ya= -0.07...Za= -0.75...Temperature = 18.10 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.03...Ya= -0.07...Za= -0.75...Temperature = 18.10 *C...Pressure = 962.05 Pa...Altitude = 410.45
+ m
+Xa= -0.02...Ya= -0.09...Za= -0.75...Temperature = 18.09 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.04...Ya= -0.10...Za= -0.75...Temperature = 18.09 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.04...Ya= -0.10...Za= -0.75...Temperature = 18.08 *C...Pressure = 962.03 Pa...Altitude = 410.64
+ m
+Xa= -0.01...Ya= -0.13...Za= -0.75...Temperature = 18.08 *C...Pressure = 962.07 Pa...Altitude = 410.34
+ m
+Xa= -0.05...Ya= -0.14...Za= -0.75...Temperature = 18.08 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.04...Ya= -0.12...Za= -0.75...Temperature = 18.07 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.01...Ya= -0.12...Za= -0.75...Temperature = 18.07 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.10...Ya= -0.06...Za= -0.77...Temperature = 18.06 *C...Pressure = 962.07 Pa...Altitude = 410.31
+ m
+Xa= -0.07...Ya= -0.11...Za= -0.75...Temperature = 18.06 *C...Pressure = 962.02 Pa...Altitude = 410.72
+ m
+Xa= -0.02...Ya= -0.23...Za= -0.71...Temperature = 18.05 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= -0.12...Ya= -0.11...Za= -0.72...Temperature = 18.04 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.09...Ya= -0.12...Za= -0.73...Temperature = 18.04 *C...Pressure = 962.03 Pa...Altitude = 410.63
+ m
+Xa= -0.11...Ya= -0.18...Za= -0.74...Temperature = 18.03 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.12...Ya= -0.16...Za= -0.73...Temperature = 18.02 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.08...Ya= -0.17...Za= -0.74...Temperature = 18.02 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.10...Ya= -0.21...Za= -0.72...Temperature = 18.01 *C...Pressure = 962.05 Pa...Altitude = 410.45
+ m
+Xa= -0.11...Ya= -0.20...Za= -0.72...Temperature = 18.00 *C...Pressure = 962.08 Pa...Altitude = 410.24
+ m
+Xa= -0.08...Ya= -0.18...Za= -0.73...Temperature = 18.00 *C...Pressure = 962.07 Pa...Altitude = 410.30
+ m
+Xa= -0.07...Ya= -0.18...Za= -0.73...Temperature = 18.00 *C...Pressure = 962.07 Pa...Altitude = 410.37
+ m
+Xa= -0.07...Ya= -0.18...Za= -0.73...Temperature = 17.99 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.07...Ya= -0.17...Za= -0.74...Temperature = 17.98 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.07...Ya= -0.17...Za= -0.74...Temperature = 17.98 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.08...Ya= -0.17...Za= -0.73...Temperature = 17.97 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= -0.07...Ya= -0.16...Za= -0.74...Temperature = 17.97 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.07...Ya= -0.18...Za= -0.73...Temperature = 17.96 *C...Pressure = 962.07 Pa...Altitude = 410.36
+ m
+Xa= -0.03...Ya= -0.17...Za= -0.74...Temperature = 17.96 *C...Pressure = 962.08 Pa...Altitude = 410.28
+ m
+Xa= -0.04...Ya= -0.14...Za= -0.76...Temperature = 17.95 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.06...Ya= -0.19...Za= -0.70...Temperature = 17.95 *C...Pressure = 962.07 Pa...Altitude = 410.32
+ m
+Xa= -0.09...Ya= -0.16...Za= -0.73...Temperature = 17.95 *C...Pressure = 962.08 Pa...Altitude = 410.19
+ m
+Xa= -0.08...Ya= -0.13...Za= -0.74...Temperature = 17.94 *C...Pressure = 962.08 Pa...Altitude = 410.24
+ m
+Xa= -0.05...Ya= -0.15...Za= -0.74...Temperature = 17.93 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.02...Ya= -0.22...Za= -0.71...Temperature = 17.93 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= 0.00...Ya= -0.16...Za= -0.76...Temperature = 17.92 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.06...Ya= -0.07...Za= -0.74...Temperature = 17.92 *C...Pressure = 962.05 Pa...Altitude = 410.54
+ m
+Xa= -0.09...Ya= -0.03...Za= -0.77...Temperature = 17.92 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= 0.00...Ya= -0.23...Za= -0.74...Temperature = 17.91 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= 0.06...Ya= -0.29...Za= -0.77...Temperature = 17.90 *C...Pressure = 962.07 Pa...Altitude = 410.31
+ m
+Xa= -0.02...Ya= -0.12...Za= -0.77...Temperature = 17.90 *C...Pressure = 962.07 Pa...Altitude = 410.34
+ m
+Xa= 0.03...Ya= -0.09...Za= -0.73...Temperature = 17.89 *C...Pressure = 962.05 Pa...Altitude = 410.45
+ m
+Xa= -0.12...Ya= -0.03...Za= -0.71...Temperature = 17.88 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.04...Ya= -0.11...Za= -0.77...Temperature = 17.88 *C...Pressure = 962.07 Pa...Altitude = 410.32
+ m
+Xa= -0.09...Ya= -0.12...Za= -0.73...Temperature = 17.88 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.11...Ya= -0.12...Za= -0.73...Temperature = 17.87 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.09...Ya= -0.16...Za= -0.73...Temperature = 17.87 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.04...Ya= -0.19...Za= -0.71...Temperature = 17.86 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.08...Ya= -0.17...Za= -0.73...Temperature = 17.86 *C...Pressure = 962.09 Pa...Altitude = 410.17
+ m
+Xa= -0.11...Ya= -0.16...Za= -0.73...Temperature = 17.86 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.06...Ya= -0.18...Za= -0.74...Temperature = 17.85 *C...Pressure = 962.06 Pa...Altitude = 410.39
+ m
+Xa= -0.07...Ya= -0.15...Za= -0.78...Temperature = 17.85 *C...Pressure = 962.05 Pa...Altitude = 410.54
+ m
+Xa= -0.13...Ya= -0.08...Za= -0.64...Temperature = 17.84 *C...Pressure = 962.07 Pa...Altitude = 410.30
+ m
+Xa= -0.07...Ya= -0.05...Za= -0.73...Temperature = 17.84 *C...Pressure = 962.08 Pa...Altitude = 410.22
+ m
+Xa= -0.06...Ya= -0.15...Za= -0.73...Temperature = 17.83 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.06...Ya= -0.15...Za= -0.75...Temperature = 17.83 *C...Pressure = 962.09 Pa...Altitude = 410.15
+ m
+Xa= -0.12...Ya= -0.16...Za= -0.75...Temperature = 17.83 *C...Pressure = 962.09 Pa...Altitude = 410.19
+ m
+Xa= -0.09...Ya= -0.14...Za= -0.73...Temperature = 17.82 *C...Pressure = 962.04 Pa...Altitude = 410.48
+ m
+Xa= -0.11...Ya= -0.17...Za= -0.73...Temperature = 17.82 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= 0.01...Ya= -0.15...Za= -0.76...Temperature = 17.82 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.05...Ya= -0.16...Za= -0.73...Temperature = 17.81 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.09...Ya= -0.18...Za= -0.75...Temperature = 17.81 *C...Pressure = 962.05 Pa...Altitude = 410.48
+ m
+Xa= -0.09...Ya= -0.15...Za= -0.75...Temperature = 17.80 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.12...Ya= -0.25...Za= -0.76...Temperature = 17.80 *C...Pressure = 962.11 Pa...Altitude = 409.96
+ m
+Xa= -0.13...Ya= -0.20...Za= -0.73...Temperature = 17.80 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.07...Ya= -0.11...Za= -0.75...Temperature = 17.79 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.14...Ya= -0.17...Za= -0.73...Temperature = 17.79 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= -0.05...Ya= -0.15...Za= -0.75...Temperature = 17.78 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.08...Ya= -0.17...Za= -0.73...Temperature = 17.78 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.08...Ya= -0.16...Za= -0.74...Temperature = 17.78 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.09...Ya= -0.17...Za= -0.73...Temperature = 17.77 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.08...Ya= -0.13...Za= -0.73...Temperature = 17.78 *C...Pressure = 962.10 Pa...Altitude = 410.03
+ m
+Xa= -0.07...Ya= -0.17...Za= -0.74...Temperature = 17.77 *C...Pressure = 962.08 Pa...Altitude = 410.28
+ m
+Xa= -0.08...Ya= -0.15...Za= -0.74...Temperature = 17.77 *C...Pressure = 962.08 Pa...Altitude = 410.34
+ m
+Xa= -0.09...Ya= -0.14...Za= -0.74...Temperature = 17.76 *C...Pressure = 962.10 Pa...Altitude = 410.09
+ m
+Xa= -0.09...Ya= -0.16...Za= -0.75...Temperature = 17.76 *C...Pressure = 962.09 Pa...Altitude = 410.15
+ m
+Xa= -0.07...Ya= -0.16...Za= -0.74...Temperature = 17.76 *C...Pressure = 962.07 Pa...Altitude = 410.33
+ m
+Xa= -0.08...Ya= -0.14...Za= -0.75...Temperature = 17.75 *C...Pressure = 962.07 Pa...Altitude = 410.31
+ m
+Xa= -0.10...Ya= -0.17...Za= -0.73...Temperature = 17.75 *C...Pressure = 962.05 Pa...Altitude = 410.48
+ m
+Xa= -0.08...Ya= -0.13...Za= -0.74...Temperature = 17.74 *C...Pressure = 962.08 Pa...Altitude = 410.27
+ m
+Xa= -0.06...Ya= -0.14...Za= -0.74...Temperature = 17.74 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= -0.09...Ya= -0.16...Za= -0.71...Temperature = 17.73 *C...Pressure = 962.07 Pa...Altitude = 410.30
+ m
+Xa= -0.04...Ya= -0.18...Za= -0.73...Temperature = 17.72 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.06...Ya= -0.24...Za= -0.74...Temperature = 17.73 *C...Pressure = 962.08 Pa...Altitude = 410.24
+ m
+Xa= -0.10...Ya= -0.10...Za= -0.73...Temperature = 17.72 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= 0.00...Ya= -0.03...Za= -0.80...Temperature = 17.71 *C...Pressure = 962.01 Pa...Altitude = 410.84
+ m
+Xa= 0.03...Ya= -0.14...Za= -0.75...Temperature = 17.71 *C...Pressure = 962.03 Pa...Altitude = 410.69
+ m
+Xa= -0.02...Ya= -0.07...Za= -0.75...Temperature = 17.70 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.06...Ya= -0.12...Za= -0.75...Temperature = 17.70 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.05...Ya= -0.11...Za= -0.75...Temperature = 17.69 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.08...Ya= -0.11...Za= -0.73...Temperature = 17.69 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.04...Ya= -0.10...Za= -0.72...Temperature = 17.68 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.06...Ya= -0.06...Za= -0.76...Temperature = 17.68 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= 0.00...Ya= -0.16...Za= -0.79...Temperature = 17.67 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.08...Ya= -0.30...Za= -0.70...Temperature = 17.67 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.11...Ya= -0.25...Za= -0.71...Temperature = 17.67 *C...Pressure = 962.06 Pa...Altitude = 410.38
+ m
+Xa= -0.04...Ya= -0.17...Za= -0.75...Temperature = 17.66 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.07...Ya= -0.10...Za= -0.75...Temperature = 17.66 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.12...Ya= -0.17...Za= -0.79...Temperature = 17.65 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.10...Ya= -0.18...Za= -0.73...Temperature = 17.65 *C...Pressure = 962.08 Pa...Altitude = 410.25
+ m
+Xa= -0.03...Ya= -0.15...Za= -0.74...Temperature = 17.65 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.07...Ya= -0.12...Za= -0.73...Temperature = 17.64 *C...Pressure = 962.07 Pa...Altitude = 410.36
+ m
+Xa= -0.10...Ya= -0.14...Za= -0.76...Temperature = 17.64 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= -0.10...Ya= -0.09...Za= -0.73...Temperature = 17.63 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.03...Ya= -0.12...Za= -0.76...Temperature = 17.63 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.03...Ya= -0.23...Za= -0.80...Temperature = 17.62 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.21...Ya= -0.16...Za= -0.79...Temperature = 17.62 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.20...Ya= -0.14...Za= -0.69...Temperature = 17.61 *C...Pressure = 962.04 Pa...Altitude = 410.63
+ m
+Xa= -0.18...Ya= -0.11...Za= -0.73...Temperature = 17.61 *C...Pressure = 962.08 Pa...Altitude = 410.27
+ m
+Xa= 0.00...Ya= -0.13...Za= -0.71...Temperature = 17.60 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.02...Ya= -0.22...Za= -0.70...Temperature = 17.60 *C...Pressure = 962.03 Pa...Altitude = 410.64
+ m
+Xa= -0.08...Ya= -0.22...Za= -0.73...Temperature = 17.59 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.10...Ya= -0.22...Za= -0.73...Temperature = 17.59 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.10...Ya= -0.21...Za= -0.73...Temperature = 17.58 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= 0.07...Ya= -0.19...Za= -0.74...Temperature = 17.58 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= -0.05...Ya= -0.22...Za= -0.68...Temperature = 17.58 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.01...Ya= -0.16...Za= -0.74...Temperature = 17.57 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.07...Ya= -0.15...Za= -0.75...Temperature = 17.57 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= -0.07...Ya= -0.18...Za= -0.75...Temperature = 17.56 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.05...Ya= -0.16...Za= -0.73...Temperature = 17.56 *C...Pressure = 962.02 Pa...Altitude = 410.78
+ m
+Xa= -0.08...Ya= -0.16...Za= -0.75...Temperature = 17.55 *C...Pressure = 962.03 Pa...Altitude = 410.64
+ m
+Xa= -0.04...Ya= -0.15...Za= -0.76...Temperature = 17.55 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= -0.01...Ya= -0.14...Za= -0.73...Temperature = 17.55 *C...Pressure = 962.05 Pa...Altitude = 410.48
+ m
+Xa= -0.03...Ya= -0.15...Za= -0.74...Temperature = 17.54 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.04...Ya= -0.12...Za= -0.74...Temperature = 17.54 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.06...Ya= -0.16...Za= -0.75...Temperature = 17.53 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.04...Ya= -0.15...Za= -0.73...Temperature = 17.53 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.06...Ya= -0.15...Za= -0.71...Temperature = 17.52 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= -0.04...Ya= -0.15...Za= -0.73...Temperature = 17.52 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= -0.00...Ya= -0.15...Za= -0.75...Temperature = 17.51 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= -0.05...Ya= -0.16...Za= -0.72...Temperature = 17.52 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.06...Ya= -0.14...Za= -0.74...Temperature = 17.50 *C...Pressure = 962.00 Pa...Altitude = 410.95
+ m
+Xa= -0.05...Ya= -0.14...Za= -0.75...Temperature = 17.51 *C...Pressure = 962.02 Pa...Altitude = 410.76
+ m
+Xa= -0.06...Ya= -0.14...Za= -0.73...Temperature = 17.50 *C...Pressure = 962.03 Pa...Altitude = 410.69
+ m
+Xa= -0.06...Ya= -0.14...Za= -0.74...Temperature = 17.50 *C...Pressure = 962.01 Pa...Altitude = 410.84
+ m
+Xa= -0.07...Ya= -0.15...Za= -0.74...Temperature = 17.50 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= -0.05...Ya= -0.17...Za= -0.74...Temperature = 17.49 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.06...Ya= -0.11...Za= -0.73...Temperature = 17.49 *C...Pressure = 962.02 Pa...Altitude = 410.76
+ m
+Xa= -0.07...Ya= -0.13...Za= -0.74...Temperature = 17.48 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.09...Ya= -0.10...Za= -0.73...Temperature = 17.48 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.12...Ya= 0.03...Za= -0.77...Temperature = 17.48 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= 0.02...Ya= -0.04...Za= -0.70...Temperature = 17.48 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= -0.09...Ya= -0.14...Za= -0.77...Temperature = 17.47 *C...Pressure = 962.02 Pa...Altitude = 410.76
+ m
+Xa= -0.07...Ya= -0.10...Za= -0.77...Temperature = 17.47 *C...Pressure = 962.02 Pa...Altitude = 410.80
+ m
+Xa= -0.04...Ya= -0.11...Za= -0.74...Temperature = 17.47 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.05...Ya= -0.13...Za= -0.75...Temperature = 17.46 *C...Pressure = 962.02 Pa...Altitude = 410.73
+ m
+Xa= -0.03...Ya= -0.10...Za= -0.75...Temperature = 17.46 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.04...Ya= -0.11...Za= -0.75...Temperature = 17.46 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= -0.05...Ya= -0.13...Za= -0.76...Temperature = 17.45 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= -0.06...Ya= -0.12...Za= -0.75...Temperature = 17.45 *C...Pressure = 962.01 Pa...Altitude = 410.76
+ m
+Xa= -0.05...Ya= -0.12...Za= -0.73...Temperature = 17.45 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.05...Ya= -0.12...Za= -0.74...Temperature = 17.44 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.04...Ya= -0.10...Za= -0.74...Temperature = 17.44 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= -0.09...Ya= -0.13...Za= -0.73...Temperature = 17.44 *C...Pressure = 962.00 Pa...Altitude = 410.95
+ m
+Xa= 0.04...Ya= -0.22...Za= -0.73...Temperature = 17.43 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= -0.07...Ya= -0.18...Za= -0.80...Temperature = 17.42 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= -0.04...Ya= 0.04...Za= -0.69...Temperature = 17.42 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= -0.03...Ya= -0.02...Za= -0.73...Temperature = 17.42 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= -0.10...Ya= -0.07...Za= -0.75...Temperature = 17.41 *C...Pressure = 962.01 Pa...Altitude = 410.80
+ m
+Xa= -0.04...Ya= -0.06...Za= -0.70...Temperature = 17.41 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.10...Ya= -0.18...Za= -0.75...Temperature = 17.40 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= 0.06...Ya= -0.02...Za= -0.78...Temperature = 17.40 *C...Pressure = 961.94 Pa...Altitude = 411.49
+ m
+Xa= -0.03...Ya= -0.01...Za= -0.70...Temperature = 17.39 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= -0.09...Ya= -0.15...Za= -0.75...Temperature = 17.39 *C...Pressure = 961.97 Pa...Altitude = 411.24
+ m
+Xa= -0.31...Ya= 0.09...Za= -0.73...Temperature = 17.38 *C...Pressure = 962.15 Pa...Altitude = 409.59
+ m
+Xa= -0.16...Ya= 0.05...Za= -0.61...Temperature = 17.38 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.15...Ya= 0.01...Za= -0.76...Temperature = 17.38 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= -0.25...Ya= 0.25...Za= -0.65...Temperature = 17.38 *C...Pressure = 961.95 Pa...Altitude = 411.36
+ m
+Xa= -0.20...Ya= -0.05...Za= -0.71...Temperature = 17.38 *C...Pressure = 961.99 Pa...Altitude = 411.06
+ m
+Xa= -0.13...Ya= -0.04...Za= -0.75...Temperature = 17.38 *C...Pressure = 962.00 Pa...Altitude = 410.90
+ m
+Xa= -0.18...Ya= -0.05...Za= -0.73...Temperature = 17.37 *C...Pressure = 962.00 Pa...Altitude = 410.96
+ m
+Xa= -0.17...Ya= -0.04...Za= -0.73...Temperature = 17.37 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= -0.17...Ya= -0.04...Za= -0.73...Temperature = 17.37 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.16...Ya= -0.03...Za= -0.75...Temperature = 17.37 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= -0.17...Ya= -0.02...Za= -0.73...Temperature = 17.37 *C...Pressure = 962.08 Pa...Altitude = 410.27
+ m
+Xa= -0.14...Ya= -0.15...Za= -0.75...Temperature = 17.36 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.07...Ya= -0.02...Za= -0.74...Temperature = 17.36 *C...Pressure = 962.01 Pa...Altitude = 410.88
+ m
+Xa= -0.14...Ya= -0.13...Za= -0.75...Temperature = 17.36 *C...Pressure = 962.02 Pa...Altitude = 410.78
+ m
+Xa= -0.11...Ya= -0.07...Za= -0.75...Temperature = 17.36 *C...Pressure = 962.02 Pa...Altitude = 410.75
+ m
+Xa= -0.13...Ya= -0.07...Za= -0.75...Temperature = 17.35 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.20...Ya= -0.02...Za= -0.77...Temperature = 17.35 *C...Pressure = 962.06 Pa...Altitude = 410.40
+ m
+Xa= -0.39...Ya= -0.11...Za= -0.65...Temperature = 17.35 *C...Pressure = 962.01 Pa...Altitude = 410.88
+ m
+Xa= 0.03...Ya= -0.02...Za= -0.75...Temperature = 17.35 *C...Pressure = 962.08 Pa...Altitude = 410.84
+ m
+Xa= -0.10...Ya= 0.02...Za= -0.74...Temperature = 17.35 *C...Pressure = 961.99 Pa...Altitude = 411.02
+ m
+Xa= -0.15...Ya= -0.06...Za= -0.75...Temperature = 17.34 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.12...Ya= -0.05...Za= -0.74...Temperature = 17.34 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.10...Ya= 0.00...Za= -0.73...Temperature = 17.33 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.32...Ya= -0.36...Za= -0.60...Temperature = 17.34 *C...Pressure = 962.04 Pa...Altitude = 410.63
+ m
+Xa= -0.14...Ya= -0.13...Za= -0.77...Temperature = 17.33 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= 0.00...Ya= 0.18...Za= -0.78...Temperature = 17.34 *C...Pressure = 961.93 Pa...Altitude = 411.51
+ m
+Xa= -0.06...Ya= 0.02...Za= -0.65...Temperature = 17.33 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.23...Ya= -0.00...Za= -0.80...Temperature = 17.33 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= -0.14...Ya= -0.02...Za= -0.85...Temperature = 17.33 *C...Pressure = 962.10 Pa...Altitude = 410.09
+ m
+Xa= 0.19...Ya= -0.07...Za= -0.80...Temperature = 17.33 *C...Pressure = 962.26 Pa...Altitude = 411.00
+ m
+Xa= -0.80...Ya= 0.05...Za= -1.23...Temperature = 17.33 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.29...Ya= 0.01...Za= -1.01...Temperature = 17.33 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= -0.11...Ya= -0.15...Za= -0.95...Temperature = 17.32 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.01...Ya= -0.16...Za= -0.77...Temperature = 17.32 *C...Pressure = 962.05 Pa...Altitude = 410.54
+ m
+Xa= 0.31...Ya= -0.14...Za= -0.58...Temperature = 17.32 *C...Pressure = 961.97 Pa...Altitude = 411.21
+ m
+Xa= -0.20...Ya= -0.19...Za= -0.79...Temperature = 17.32 *C...Pressure = 962.04 Pa...Altitude = 410.56
+ m
+Xa= -0.19...Ya= -0.07...Za= -0.74...Temperature = 17.32 *C...Pressure = 962.04 Pa...Altitude = 410.62
+ m
+Xa= -0.12...Ya= -0.04...Za= -0.77...Temperature = 17.32 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.05...Ya= -0.10...Za= -0.76...Temperature = 17.31 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.08...Ya= -0.05...Za= -0.82...Temperature = 17.31 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= -0.07...Ya= -0.09...Za= -0.73...Temperature = 17.31 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.05...Ya= -0.16...Za= -0.75...Temperature = 17.31 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= 0.00...Ya= -0.12...Za= -0.75...Temperature = 17.30 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.28...Ya= -0.35...Za= -0.64...Temperature = 17.30 *C...Pressure = 961.83 Pa...Altitude = 412.38
+ m
+Xa= 0.04...Ya= -0.14...Za= -0.66...Temperature = 17.30 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.12...Ya= -0.20...Za= -0.71...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 409.85
+ m
+Xa= -0.03...Ya= -0.09...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.08 Pa...Altitude = 410.23
+ m
+Xa= -0.19...Ya= -0.08...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.10...Ya= -0.07...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.39
+ m
+Xa= -0.11...Ya= -0.04...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.13...Ya= -0.04...Za= -0.77...Temperature = 17.30 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.07...Ya= -0.16...Za= -0.75...Temperature = 17.30 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.03...Ya= -0.16...Za= -0.76...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.34
+ m
+Xa= -0.02...Ya= -0.15...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.22...Ya= 0.02...Za= -0.62...Temperature = 17.29 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= -0.14...Ya= -0.02...Za= -0.92...Temperature = 17.29 *C...Pressure = 962.25 Pa...Altitude = 408.75
+ m
+Xa= -0.12...Ya= 0.04...Za= -0.67...Temperature = 17.29 *C...Pressure = 962.04 Pa...Altitude = 410.61
+ m
+Xa= -0.17...Ya= 0.11...Za= -0.75...Temperature = 17.29 *C...Pressure = 961.93 Pa...Altitude = 411.50
+ m
+Xa= 0.07...Ya= -0.02...Za= -0.77...Temperature = 17.29 *C...Pressure = 962.00 Pa...Altitude = 410.91
+ m
+Xa= 0.02...Ya= 0.05...Za= -0.89...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.64
+ m
+Xa= 0.05...Ya= -0.09...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= 0.07...Ya= -0.16...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= 0.01...Ya= 0.01...Za= -0.85...Temperature = 17.29 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= 0.17...Ya= -0.08...Za= -0.79...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.69
+ m
+Xa= 0.20...Ya= 0.08...Za= -0.84...Temperature = 17.29 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= 0.15...Ya= -0.01...Za= -0.73...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= 0.01...Ya= 0.15...Za= -0.78...Temperature = 17.29 *C...Pressure = 962.02 Pa...Altitude = 410.72
+ m
+Xa= 0.09...Ya= -0.15...Za= -0.67...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= 0.18...Ya= -0.21...Za= -0.77...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= 0.19...Ya= -0.31...Za= -0.70...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= 0.32...Ya= -0.24...Za= -0.89...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= 0.32...Ya= -0.25...Za= -0.68...Temperature = 17.29 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= 0.23...Ya= -0.20...Za= -0.72...Temperature = 17.29 *C...Pressure = 962.07 Pa...Altitude = 410.32
+ m
+Xa= -0.24...Ya= -0.06...Za= -0.57...Temperature = 17.29 *C...Pressure = 960.06 Pa...Altitude = 427.77
+ m
+Xa= -0.05...Ya= -0.01...Za= -0.74...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.04...Ya= 0.05...Za= -0.80...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.40
+ m
+Xa= 0.11...Ya= -0.04...Za= -0.66...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.09...Ya= -0.01...Za= -0.73...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.44
+ m
+Xa= -0.10...Ya= -0.04...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.05...Ya= -0.12...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.16...Ya= -0.06...Za= -0.59...Temperature = 17.29 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= -0.36...Ya= -0.10...Za= -0.68...Temperature = 17.29 *C...Pressure = 962.52 Pa...Altitude = 406.42
+ m
+Xa= -0.14...Ya= -0.12...Za= -0.53...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.39
+ m
+Xa= -0.21...Ya= -0.07...Za= -0.72...Temperature = 17.29 *C...Pressure = 962.09 Pa...Altitude = 410.18
+ m
+Xa= -0.16...Ya= -0.07...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.18...Ya= -0.16...Za= -0.74...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.19...Ya= -0.12...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.29
+ m
+Xa= -0.20...Ya= -0.11...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.22...Ya= -0.11...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.54
+ m
+Xa= -0.21...Ya= -0.12...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.36
+ m
+Xa= -0.20...Ya= -0.14...Za= -0.71...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.29...Ya= -0.09...Za= -0.76...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= -0.10...Ya= 0.01...Za= -0.73...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.21...Ya= -0.07...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.12...Ya= -0.09...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.22...Ya= -0.08...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.04 Pa...Altitude = 410.54
+ m
+Xa= -0.10...Ya= -0.14...Za= -0.67...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.16...Ya= -0.13...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.15...Ya= -0.14...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.37
+ m
+Xa= -0.20...Ya= -0.12...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.20...Ya= -0.12...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.20...Ya= -0.07...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.20...Ya= -0.11...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.24...Ya= -0.09...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.06 Pa...Altitude = 410.40
+ m
+Xa= -0.21...Ya= -0.11...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.09...Ya= -0.08...Za= -0.78...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.32
+ m
+Xa= -0.13...Ya= -0.10...Za= -0.75...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.49
+ m
+Xa= -0.07...Ya= -0.04...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.33
+ m
+Xa= -0.13...Ya= -0.07...Za= -0.75...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.15...Ya= -0.07...Za= -0.75...Temperature = 17.30 *C...Pressure = 962.04 Pa...Altitude = 410.62
+ m
+Xa= -0.17...Ya= -0.09...Za= -0.72...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.29
+ m
+Xa= -0.18...Ya= -0.08...Za= -0.73...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.16...Ya= -0.07...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.16...Ya= -0.08...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.35
+ m
+Xa= -0.18...Ya= -0.05...Za= -0.74...Temperature = 17.30 *C...Pressure = 962.07 Pa...Altitude = 410.30
+ m
+Xa= -0.19...Ya= -0.04...Za= -0.78...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.63
+ m
+Xa= -0.01...Ya= 0.02...Za= -0.71...Temperature = 17.30 *C...Pressure = 962.04 Pa...Altitude = 410.40
+ m
+Xa= -0.61...Ya= 0.00...Za= -0.90...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.06...Ya= 0.06...Za= -0.69...Temperature = 17.29 *C...Pressure = 962.07 Pa...Altitude = 410.33
+ m
+Xa= -0.36...Ya= 0.01...Za= -0.71...Temperature = 17.30 *C...Pressure = 962.05 Pa...Altitude = 410.54
+ m
+Xa= -0.07...Ya= -0.14...Za= -0.90...Temperature = 17.30 *C...Pressure = 962.23 Pa...Altitude = 408.89
+ m
+Xa= -0.25...Ya= -0.02...Za= -0.74...Temperature = 17.30 *C...Pressure = 961.99 Pa...Altitude = 410.99
+ m
+Xa= -0.09...Ya= -0.03...Za= -0.67...Temperature = 17.29 *C...Pressure = 962.02 Pa...Altitude = 410.78
+ m
+Xa= -0.02...Ya= -0.11...Za= -0.69...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.04...Ya= -0.15...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.10...Ya= 0.02...Za= -0.76...Temperature = 17.29 *C...Pressure = 962.07 Pa...Altitude = 410.31
+ m
+Xa= -0.25...Ya= 0.01...Za= -0.67...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.29...Ya= -0.15...Za= -0.84...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.53
+ m
+Xa= -0.33...Ya= -0.00...Za= -0.65...Temperature = 17.29 *C...Pressure = 962.09 Pa...Altitude = 410.18
+ m
+Xa= -0.25...Ya= -0.20...Za= -0.75...Temperature = 17.29 *C...Pressure = 962.07 Pa...Altitude = 410.33
+ m
+Xa= -0.07...Ya= 0.02...Za= -0.63...Temperature = 17.29 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= 0.03...Ya= 0.10...Za= -0.61...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.31...Ya= -0.13...Za= -1.00...Temperature = 17.29 *C...Pressure = 962.01 Pa...Altitude = 410.82
+ m
+Xa= 0.08...Ya= -0.19...Za= -0.78...Temperature = 17.29 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= -0.03...Ya= -0.06...Za= -0.66...Temperature = 17.29 *C...Pressure = 962.01 Pa...Altitude = 410.84
+ m
+Xa= -0.10...Ya= 0.05...Za= -0.58...Temperature = 17.29 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.08...Ya= -0.09...Za= -0.56...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.11...Ya= 0.02...Za= -0.73...Temperature = 17.29 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= -0.10...Ya= -0.08...Za= -0.74...Temperature = 17.28 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.12...Ya= -0.07...Za= -0.80...Temperature = 17.28 *C...Pressure = 962.05 Pa...Altitude = 410.45
+ m
+Xa= -0.08...Ya= -0.10...Za= -0.75...Temperature = 17.28 *C...Pressure = 962.03 Pa...Altitude = 410.66
+ m
+Xa= -0.03...Ya= -0.25...Za= -0.74...Temperature = 17.29 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= -0.09...Ya= -0.12...Za= -0.75...Temperature = 17.28 *C...Pressure = 962.05 Pa...Altitude = 410.45
+ m
+Xa= 0.04...Ya= -0.07...Za= -0.84...Temperature = 17.28 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= 0.05...Ya= -0.07...Za= -1.12...Temperature = 17.28 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= 0.01...Ya= -0.03...Za= -1.09...Temperature = 17.27 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= 0.12...Ya= -0.02...Za= -0.91...Temperature = 17.28 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.09...Ya= -0.10...Za= -0.49...Temperature = 17.28 *C...Pressure = 961.99 Pa...Altitude = 411.05
+ m
+Xa= -0.02...Ya= -0.18...Za= -0.45...Temperature = 17.27 *C...Pressure = 961.95 Pa...Altitude = 411.34
+ m
+Xa= -0.20...Ya= -0.09...Za= -0.44...Temperature = 17.27 *C...Pressure = 961.83 Pa...Altitude = 412.40
+ m
+Xa= -0.16...Ya= -0.05...Za= -0.63...Temperature = 17.27 *C...Pressure = 962.08 Pa...Altitude = 410.27
+ m
+Xa= -0.60...Ya= -0.71...Za= -2.00...Temperature = 17.27 *C...Pressure = 962.05 Pa...Altitude = 410.54
+ m
+Xa= 0.02...Ya= 0.18...Za= 0.29...Temperature = 17.27 *C...Pressure = 961.82 Pa...Altitude = 412.49
+ m
+Xa= -0.07...Ya= 0.16...Za= -0.91...Temperature = 17.26 *C...Pressure = 962.03 Pa...Altitude = 410.69
+ m
+Xa= -0.22...Ya= 0.32...Za= -0.34...Temperature = 17.26 *C...Pressure = 961.94 Pa...Altitude = 411.47
+ m
+Xa= 0.00...Ya= 0.28...Za= -0.52...Temperature = 17.26 *C...Pressure = 961.87 Pa...Altitude = 412.08
+ m
+Xa= -0.39...Ya= -0.92...Za= -1.30...Temperature = 17.26 *C...Pressure = 961.86 Pa...Altitude = 412.18
+ m
+Xa= -0.23...Ya= -0.13...Za= -0.46...Temperature = 17.25 *C...Pressure = 961.79 Pa...Altitude = 412.78
+ m
+Xa= -0.44...Ya= -0.25...Za= -0.54...Temperature = 17.25 *C...Pressure = 961.87 Pa...Altitude = 412.03
+ m
+Xa= -0.51...Ya= -0.29...Za= -0.54...Temperature = 17.25 *C...Pressure = 961.85 Pa...Altitude = 412.25
+ m
+Xa= 0.14...Ya= -0.50...Za= -0.68...Temperature = 17.25 *C...Pressure = 961.80 Pa...Altitude = 412.65
+ m
+Xa= -0.13...Ya= -0.51...Za= -0.55...Temperature = 17.24 *C...Pressure = 961.78 Pa...Altitude = 412.84
+ m
+Xa= -0.07...Ya= -0.18...Za= -0.69...Temperature = 17.24 *C...Pressure = 961.89 Pa...Altitude = 411.86
+ m
+Xa= -0.33...Ya= -0.05...Za= -0.72...Temperature = 17.24 *C...Pressure = 961.88 Pa...Altitude = 411.96
+ m
+Xa= -0.25...Ya= -0.05...Za= -0.66...Temperature = 17.24 *C...Pressure = 961.90 Pa...Altitude = 411.79
+ m
+Xa= -0.37...Ya= 0.04...Za= -0.73...Temperature = 17.24 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= -0.29...Ya= -0.02...Za= -0.84...Temperature = 17.23 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.26...Ya= -0.13...Za= -0.71...Temperature = 17.23 *C...Pressure = 962.06 Pa...Altitude = 410.45
+ m
+Xa= -0.25...Ya= -0.08...Za= -0.71...Temperature = 17.22 *C...Pressure = 962.08 Pa...Altitude = 410.28
+ m
+Xa= -0.29...Ya= -0.08...Za= -0.70...Temperature = 17.22 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.28...Ya= -0.09...Za= -0.71...Temperature = 17.22 *C...Pressure = 962.07 Pa...Altitude = 410.31
+ m
+Xa= -0.26...Ya= -0.09...Za= -0.71...Temperature = 17.21 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.29...Ya= -0.09...Za= -0.70...Temperature = 17.21 *C...Pressure = 962.05 Pa...Altitude = 410.45
+ m
+Xa= -0.25...Ya= -0.09...Za= -0.71...Temperature = 17.21 *C...Pressure = 962.05 Pa...Altitude = 410.48
+ m
+Xa= -0.29...Ya= -0.10...Za= -0.71...Temperature = 17.21 *C...Pressure = 962.04 Pa...Altitude = 410.54
+ m
+Xa= -0.26...Ya= -0.09...Za= -0.71...Temperature = 17.21 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.28...Ya= -0.10...Za= -0.71...Temperature = 17.21 *C...Pressure = 962.06 Pa...Altitude = 410.42
+ m
+Xa= -0.28...Ya= -0.10...Za= -0.71...Temperature = 17.20 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.27...Ya= -0.09...Za= -0.71...Temperature = 17.20 *C...Pressure = 962.04 Pa...Altitude = 410.59
+ m
+Xa= -0.29...Ya= -0.10...Za= -0.71...Temperature = 17.20 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.26...Ya= -0.09...Za= -0.71...Temperature = 17.19 *C...Pressure = 962.04 Pa...Altitude = 410.54
+ m
+Xa= -0.28...Ya= -0.10...Za= -0.71...Temperature = 17.19 *C...Pressure = 962.06 Pa...Altitude = 410.40
+ m
+Xa= -0.27...Ya= -0.10...Za= -0.71...Temperature = 17.18 *C...Pressure = 962.02 Pa...Altitude = 410.75
+ m
+Xa= -0.27...Ya= -0.10...Za= -0.70...Temperature = 17.19 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.29...Ya= -0.09...Za= -0.70...Temperature = 17.18 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.27...Ya= -0.09...Za= -0.71...Temperature = 17.17 *C...Pressure = 962.03 Pa...Altitude = 410.68
+ m
+Xa= -0.29...Ya= -0.09...Za= -0.71...Temperature = 17.18 *C...Pressure = 962.05 Pa...Altitude = 410.68
+ m
+Xa= -0.27...Ya= -0.09...Za= -0.70...Temperature = 17.17 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.28...Ya= -0.09...Za= -0.70...Temperature = 17.17 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.28...Ya= -0.09...Za= -0.71...Temperature = 17.17 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.27...Ya= -0.09...Za= -0.71...Temperature = 17.17 *C...Pressure = 962.06 Pa...Altitude = 410.41
+ m
+Xa= -0.28...Ya= -0.10...Za= -0.71...Temperature = 17.17 *C...Pressure = 962.04 Pa...Altitude = 410.60
+ m
+Xa= -0.27...Ya= -0.10...Za= -0.71...Temperature = 17.16 *C...Pressure = 962.08 Pa...Altitude = 410.23
+ m
+Xa= -0.28...Ya= -0.09...Za= -0.71...Temperature = 17.16 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.26...Ya= -0.09...Za= -0.71...Temperature = 17.16 *C...Pressure = 962.07 Pa...Altitude = 410.30
+ m
+Xa= -0.23...Ya= -0.10...Za= -0.71...Temperature = 17.16 *C...Pressure = 962.07 Pa...Altitude = 410.29
+ m
+Xa= -0.30...Ya= -0.08...Za= -0.72...Temperature = 17.15 *C...Pressure = 962.07 Pa...Altitude = 410.36
+ m
+Xa= -0.29...Ya= -0.11...Za= -0.70...Temperature = 17.15 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.27...Ya= -0.12...Za= -0.70...Temperature = 17.15 *C...Pressure = 962.07 Pa...Altitude = 410.36
+ m
+Xa= -0.29...Ya= -0.11...Za= -0.71...Temperature = 17.14 *C...Pressure = 962.08 Pa...Altitude = 410.19
+ m
+Xa= -0.28...Ya= -0.11...Za= -0.71...Temperature = 17.14 *C...Pressure = 962.08 Pa...Altitude = 410.27
+ m
+Xa= -0.26...Ya= -0.12...Za= -0.71...Temperature = 17.14 *C...Pressure = 962.06 Pa...Altitude = 410.43
+ m
+Xa= -0.26...Ya= -0.11...Za= -0.70...Temperature = 17.14 *C...Pressure = 962.05 Pa...Altitude = 410.50
+ m
+Xa= -0.29...Ya= -0.11...Za= -0.71...Temperature = 17.14 *C...Pressure = 962.04 Pa...Altitude = 410.57
+ m
+Xa= -0.30...Ya= -0.12...Za= -0.70...Temperature = 17.13 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.27...Ya= -0.10...Za= -0.70...Temperature = 17.13 *C...Pressure = 962.06 Pa...Altitude = 410.39
+ m
+Xa= -0.27...Ya= -0.11...Za= -0.70...Temperature = 17.13 *C...Pressure = 962.03 Pa...Altitude = 410.65
+ m
+Xa= -0.29...Ya= -0.09...Za= -0.70...Temperature = 17.12 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.21...Ya= -0.07...Za= -0.68...Temperature = 17.13 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.27...Ya= -0.12...Za= -0.70...Temperature = 17.13 *C...Pressure = 962.05 Pa...Altitude = 410.47
+ m
+Xa= -0.26...Ya= -0.10...Za= -0.70...Temperature = 17.12 *C...Pressure = 962.05 Pa...Altitude = 410.51
+ m
+Xa= -0.24...Ya= -0.11...Za= -0.70...Temperature = 17.12 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.27...Ya= -0.11...Za= -0.70...Temperature = 17.12 *C...Pressure = 962.04 Pa...Altitude = 410.55
+ m
+Xa= -0.26...Ya= -0.18...Za= -0.70...Temperature = 17.11 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= -0.28...Ya= -0.12...Za= -0.71...Temperature = 17.12 *C...Pressure = 962.05 Pa...Altitude = 410.46
+ m
+Xa= -0.26...Ya= -0.07...Za= -0.71...Temperature = 17.11 *C...Pressure = 962.02 Pa...Altitude = 410.74
+ m
+Xa= -0.24...Ya= -0.16...Za= -0.71...Temperature = 17.11 *C...Pressure = 962.05 Pa...Altitude = 410.48
+ m
+Xa= -0.33...Ya= -0.10...Za= -0.71...Temperature = 17.11 *C...Pressure = 962.02 Pa...Altitude = 410.76
+ m
+Xa= -0.25...Ya= -0.16...Za= -0.70...Temperature = 17.10 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.23...Ya= -0.16...Za= -0.71...Temperature = 17.10 *C...Pressure = 962.03 Pa...Altitude = 410.71
+ m
+Xa= -0.24...Ya= -0.15...Za= -0.71...Temperature = 17.10 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= -0.30...Ya= -0.15...Za= -0.70...Temperature = 17.10 *C...Pressure = 962.07 Pa...Altitude = 410.61
+ m
+Xa= -0.25...Ya= -0.16...Za= -0.70...Temperature = 17.10 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= -0.29...Ya= -0.13...Za= -0.71...Temperature = 17.10 *C...Pressure = 962.02 Pa...Altitude = 410.73
+ m
+Xa= -0.25...Ya= -0.12...Za= -0.70...Temperature = 17.10 *C...Pressure = 962.03 Pa...Altitude = 410.69
+ m
+Xa= -0.27...Ya= -0.11...Za= -0.71...Temperature = 17.09 *C...Pressure = 962.02 Pa...Altitude = 410.80
+ m
+Xa= -0.28...Ya= -0.12...Za= -0.71...Temperature = 17.10 *C...Pressure = 962.05 Pa...Altitude = 410.52
+ m
+Xa= -0.25...Ya= -0.11...Za= -0.71...Temperature = 17.09 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.30...Ya= -0.12...Za= -0.71...Temperature = 17.09 *C...Pressure = 962.01 Pa...Altitude = 410.88
+ m
+Xa= -0.25...Ya= -0.11...Za= -0.71...Temperature = 17.08 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= -0.29...Ya= -0.12...Za= -0.71...Temperature = 17.08 *C...Pressure = 962.01 Pa...Altitude = 410.86
+ m
+Xa= -0.26...Ya= -0.11...Za= -0.71...Temperature = 17.08 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= -0.27...Ya= -0.12...Za= -0.71...Temperature = 17.08 *C...Pressure = 961.98 Pa...Altitude = 411.08
+ m
+Xa= -0.28...Ya= -0.11...Za= -0.70...Temperature = 17.08 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= -0.25...Ya= -0.11...Za= -0.71...Temperature = 17.08 *C...Pressure = 961.99 Pa...Altitude = 411.00
+ m
+Xa= -0.29...Ya= -0.12...Za= -0.71...Temperature = 17.07 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= -0.25...Ya= -0.11...Za= -0.71...Temperature = 17.07 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= -0.28...Ya= -0.12...Za= -0.71...Temperature = 17.07 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= -0.27...Ya= -0.12...Za= -0.70...Temperature = 17.07 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= -0.27...Ya= -0.12...Za= -0.70...Temperature = 17.06 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= -0.28...Ya= -0.12...Za= -0.71...Temperature = 17.06 *C...Pressure = 961.99 Pa...Altitude = 411.05
+ m
+Xa= -0.76...Ya= -0.21...Za= -2.00...Temperature = 17.06 *C...Pressure = 962.67 Pa...Altitude = 405.14
+ m
+Xa= -0.53...Ya= -0.41...Za= -2.00...Temperature = 17.06 *C...Pressure = 958.25 Pa...Altitude = 443.53
+ m
+Xa= 0.06...Ya= -0.12...Za= -0.08...Temperature = 17.05 *C...Pressure = 952.27 Pa...Altitude = 495.84
+ m
+Xa= 0.05...Ya= -0.08...Za= 0.50...Temperature = 17.05 *C...Pressure = 946.71 Pa...Altitude = 547.04
+ m
+Xa= 0.05...Ya= -0.04...Za= 0.35...Temperature = 17.04 *C...Pressure = 942.08 Pa...Altitude = 585.44
+ m
+Xa= -0.32...Ya= -0.49...Za= 2.00...Temperature = 17.06 *C...Pressure = 937.33 Pa...Altitude = 627.49
+ m
+Xa= 1.57...Ya= 0.33...Za= 1.48...Temperature = 17.04 *C...Pressure = 937.72 Pa...Altitude = 624.06
+ m
+Xa= -0.48...Ya= -0.44...Za= -0.04...Temperature = 17.04 *C...Pressure = 938.14 Pa...Altitude = 620.36
+ m
+Xa= 1.63...Ya= 0.67...Za= -0.96...Temperature = 17.03 *C...Pressure = 939.64 Pa...Altitude = 609.54
+ m
+Xa= 1.14...Ya= -1.41...Za= -0.21...Temperature = 17.01 *C...Pressure = 940.31 Pa...Altitude = 601.15
+ m
+Xa= 2.00...Ya= -2.00...Za= 2.00...Temperature = 17.01 *C...Pressure = 941.44 Pa...Altitude = 591.11
+ m
+Xa= 0.60...Ya= -0.02...Za= 0.24...Temperature = 16.99 *C...Pressure = 942.68 Pa...Altitude = 580.14
+ m
+Xa= 1.88...Ya= -1.15...Za= 0.84...Temperature = 16.97 *C...Pressure = 943.73 Pa...Altitude = 570.87
+ m
+Xa= 1.36...Ya= -0.27...Za= 1.02...Temperature = 16.97 *C...Pressure = 944.78 Pa...Altitude = 561.63
+ m
+Xa= 1.30...Ya= 0.68...Za= -1.19...Temperature = 16.96 *C...Pressure = 945.94 Pa...Altitude = 551.42
+ m
+Xa= 0.09...Ya= 0.24...Za= 1.96...Temperature = 16.94 *C...Pressure = 947.34 Pa...Altitude = 539.12
+ m
+Xa= 0.06...Ya= -0.01...Za= 0.99...Temperature = 16.92 *C...Pressure = 948.41 Pa...Altitude = 529.68
+ m
+Xa= -0.50...Ya= 0.85...Za= 1.06...Temperature = 16.92 *C...Pressure = 949.67 Pa...Altitude = 518.65
+ m
+Xa= -1.33...Ya= 2.00...Za= 2.00...Temperature = 16.91 *C...Pressure = 950.79 Pa...Altitude = 507.83
+ m
+Xa= -0.06...Ya= 0.89...Za= 0.85...Temperature = 16.89 *C...Pressure = 951.97 Pa...Altitude = 498.47
+ m
+Xa= -0.62...Ya= -0.57...Za= 1.27...Temperature = 16.86 *C...Pressure = 953.31 Pa...Altitude = 486.73
+ m
+Xa= 0.20...Ya= -1.50...Za= 1.05...Temperature = 16.84 *C...Pressure = 954.42 Pa...Altitude = 477.02
+ m
+Xa= 0.12...Ya= -0.71...Za= 1.21...Temperature = 16.82 *C...Pressure = 955.69 Pa...Altitude = 465.91
+ m
+Xa= 1.06...Ya= 0.62...Za= 0.90...Temperature = 16.78 *C...Pressure = 956.59 Pa...Altitude = 456.49
+ m
+Xa= 0.22...Ya= 1.23...Za= 0.63...Temperature = 16.74 *C...Pressure = 957.83 Pa...Altitude = 447.26
+ m
+Xa= 2.00...Ya= 0.37...Za= 0.93...Temperature = 16.72 *C...Pressure = 958.90 Pa...Altitude = 437.88
+ m
+Xa= -0.16...Ya= 0.40...Za= 2.00...Temperature = 16.72 *C...Pressure = 960.15 Pa...Altitude = 427.03
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.49 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= 0.95...Ya= 0.43...Za= 0.34...Temperature = 16.63 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.65 *C...Pressure = 961.99 Pa...Altitude = 411.02
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.67 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.68 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.69 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.70 *C...Pressure = 962.01 Pa...Altitude = 410.87
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.71 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.72 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.73 *C...Pressure = 961.98 Pa...Altitude = 411.07
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.74 *C...Pressure = 961.95 Pa...Altitude = 411.32
+ m
+Xa= 0.94...Ya= 0.42...Za= 0.34...Temperature = 16.75 *C...Pressure = 961.97 Pa...Altitude = 411.21
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.75 *C...Pressure = 961.98 Pa...Altitude = 411.15
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.76 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.78 *C...Pressure = 961.95 Pa...Altitude = 411.33
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.79 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.80 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.81 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.82 *C...Pressure = 961.95 Pa...Altitude = 411.38
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.83 *C...Pressure = 961.98 Pa...Altitude = 411.11
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.83 *C...Pressure = 961.97 Pa...Altitude = 411.16
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.85 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.85 *C...Pressure = 961.97 Pa...Altitude = 411.15
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.86 *C...Pressure = 961.98 Pa...Altitude = 411.10
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.87 *C...Pressure = 961.97 Pa...Altitude = 411.15
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.88 *C...Pressure = 961.94 Pa...Altitude = 411.43
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.89 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.89 *C...Pressure = 961.97 Pa...Altitude = 411.15
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.91 *C...Pressure = 961.95 Pa...Altitude = 411.39
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.91 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.91 *C...Pressure = 961.95 Pa...Altitude = 411.40
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 16.92 *C...Pressure = 961.94 Pa...Altitude = 411.41
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.93 *C...Pressure = 961.94 Pa...Altitude = 411.43
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.94 *C...Pressure = 961.91 Pa...Altitude = 411.66
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.95 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.34...Temperature = 16.95 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.96 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 16.97 *C...Pressure = 961.99 Pa...Altitude = 411.00
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.98 *C...Pressure = 961.96 Pa...Altitude = 411.31
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 16.98 *C...Pressure = 961.95 Pa...Altitude = 411.33
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 16.99 *C...Pressure = 961.94 Pa...Altitude = 411.47
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.34...Temperature = 17.00 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 17.00 *C...Pressure = 961.94 Pa...Altitude = 411.44
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.01 *C...Pressure = 961.96 Pa...Altitude = 411.31
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.02 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.34...Temperature = 17.02 *C...Pressure = 961.97 Pa...Altitude = 411.24
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.03 *C...Pressure = 961.95 Pa...Altitude = 411.40
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 17.04 *C...Pressure = 961.98 Pa...Altitude = 411.09
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 17.04 *C...Pressure = 961.94 Pa...Altitude = 411.48
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.05 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 17.06 *C...Pressure = 961.97 Pa...Altitude = 411.21
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.06 *C...Pressure = 961.96 Pa...Altitude = 411.30
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.07 *C...Pressure = 961.92 Pa...Altitude = 411.62
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.07 *C...Pressure = 961.93 Pa...Altitude = 411.52
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.07 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.08 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.09 *C...Pressure = 961.95 Pa...Altitude = 411.32
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 17.10 *C...Pressure = 961.97 Pa...Altitude = 411.20
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 17.10 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 17.11 *C...Pressure = 961.97 Pa...Altitude = 411.20
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 17.12 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.12 *C...Pressure = 961.98 Pa...Altitude = 411.09
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.35...Temperature = 17.12 *C...Pressure = 961.94 Pa...Altitude = 411.44
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.12 *C...Pressure = 961.96 Pa...Altitude = 411.31
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.13 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= 0.95...Ya= 0.41...Za= 0.34...Temperature = 17.14 *C...Pressure = 961.97 Pa...Altitude = 411.20
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.14 *C...Pressure = 962.01 Pa...Altitude = 410.85
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.34...Temperature = 17.15 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.95...Ya= 0.42...Za= 0.35...Temperature = 17.15 *C...Pressure = 961.95 Pa...Altitude = 411.40
+ m
+Xa= 0.78...Ya= 0.46...Za= 0.37...Temperature = 17.16 *C...Pressure = 961.96 Pa...Altitude = 411.26
+ m
+Xa= 1.28...Ya= -0.66...Za= 0.57...Temperature = 17.16 *C...Pressure = 961.92 Pa...Altitude = 411.59
+ m
+Xa= 0.32...Ya= -0.43...Za= 0.89...Temperature = 17.14 *C...Pressure = 961.88 Pa...Altitude = 411.99
+ m
+Xa= 0.28...Ya= -0.14...Za= 1.28...Temperature = 17.13 *C...Pressure = 961.85 Pa...Altitude = 412.25
+ m
+Xa= 0.39...Ya= -0.07...Za= 1.59...Temperature = 17.14 *C...Pressure = 961.85 Pa...Altitude = 412.21
+ m
+Xa= 0.19...Ya= -0.29...Za= 1.11...Temperature = 17.14 *C...Pressure = 961.87 Pa...Altitude = 412.07
+ m
+Xa= 0.18...Ya= 0.04...Za= 0.99...Temperature = 17.13 *C...Pressure = 961.83 Pa...Altitude = 412.40
+ m
+Xa= 0.25...Ya= -0.27...Za= 0.91...Temperature = 17.13 *C...Pressure = 961.91 Pa...Altitude = 411.70
+ m
+Xa= 0.24...Ya= -0.08...Za= 1.27...Temperature = 17.12 *C...Pressure = 961.86 Pa...Altitude = 412.11
+ m
+Xa= 0.29...Ya= -0.29...Za= 1.20...Temperature = 17.10 *C...Pressure = 961.90 Pa...Altitude = 411.71
+ m
+Xa= 0.59...Ya= 0.08...Za= 0.95...Temperature = 17.11 *C...Pressure = 961.89 Pa...Altitude = 411.90
+ m
+Xa= -0.08...Ya= -0.27...Za= 1.45...Temperature = 17.09 *C...Pressure = 961.88 Pa...Altitude = 411.98
+ m
+Xa= 0.19...Ya= -0.10...Za= 1.52...Temperature = 17.09 *C...Pressure = 961.85 Pa...Altitude = 412.22
+ m
+Xa= 0.17...Ya= -0.21...Za= 0.89...Temperature = 17.08 *C...Pressure = 961.93 Pa...Altitude = 411.58
+ m
+Xa= -0.16...Ya= -0.09...Za= 0.92...Temperature = 17.08 *C...Pressure = 961.89 Pa...Altitude = 411.88
+ m
+Xa= -0.09...Ya= -0.14...Za= 0.77...Temperature = 17.07 *C...Pressure = 961.97 Pa...Altitude = 411.20
+ m
+Xa= -0.23...Ya= -0.43...Za= 0.93...Temperature = 17.07 *C...Pressure = 961.94 Pa...Altitude = 411.47
+ m
+Xa= 0.26...Ya= -0.34...Za= 1.72...Temperature = 17.07 *C...Pressure = 961.95 Pa...Altitude = 411.34
+ m
+Xa= -0.00...Ya= -0.46...Za= 1.98...Temperature = 17.06 *C...Pressure = 961.94 Pa...Altitude = 411.44
+ m
+Xa= 0.07...Ya= -0.14...Za= 1.52...Temperature = 17.06 *C...Pressure = 961.88 Pa...Altitude = 411.87
+ m
+Xa= 0.27...Ya= -0.25...Za= 0.92...Temperature = 17.05 *C...Pressure = 961.94 Pa...Altitude = 411.44
+ m
+Xa= 0.37...Ya= -0.01...Za= 0.81...Temperature = 17.04 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= 0.05...Ya= -0.11...Za= 1.26...Temperature = 17.03 *C...Pressure = 961.95 Pa...Altitude = 411.33
+ m
+Xa= 0.28...Ya= -0.36...Za= 0.82...Temperature = 17.02 *C...Pressure = 961.94 Pa...Altitude = 411.43
+ m
+Xa= 0.05...Ya= -0.29...Za= 1.40...Temperature = 17.01 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= -0.62...Ya= -0.73...Za= 1.89...Temperature = 17.00 *C...Pressure = 961.96 Pa...Altitude = 411.32
+ m
+Xa= -0.21...Ya= -0.14...Za= 1.82...Temperature = 16.99 *C...Pressure = 961.87 Pa...Altitude = 412.09
+ m
+Xa= 0.39...Ya= -0.12...Za= 1.04...Temperature = 16.98 *C...Pressure = 961.95 Pa...Altitude = 411.39
+ m
+Xa= 0.03...Ya= -0.15...Za= 0.59...Temperature = 16.97 *C...Pressure = 961.90 Pa...Altitude = 411.76
+ m
+Xa= -0.06...Ya= -0.01...Za= 0.97...Temperature = 16.96 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= 0.05...Ya= -0.13...Za= 0.75...Temperature = 16.95 *C...Pressure = 961.97 Pa...Altitude = 411.20
+ m
+Xa= -0.46...Ya= -0.20...Za= 1.36...Temperature = 16.94 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= -0.16...Ya= 0.03...Za= 1.28...Temperature = 16.92 *C...Pressure = 961.96 Pa...Altitude = 411.30
+ m
+Xa= -0.09...Ya= -0.58...Za= 1.29...Temperature = 16.90 *C...Pressure = 961.92 Pa...Altitude = 411.66
+ m
+Xa= 0.66...Ya= -0.28...Za= 1.51...Temperature = 16.89 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= -0.19...Ya= -0.20...Za= 1.14...Temperature = 16.88 *C...Pressure = 961.97 Pa...Altitude = 411.21
+ m
+Xa= 0.01...Ya= -0.04...Za= 1.01...Temperature = 16.87 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= -0.20...Ya= -1.54...Za= 0.53...Temperature = 16.85 *C...Pressure = 962.01 Pa...Altitude = 410.80
+ m
+Xa= 0.01...Ya= -0.01...Za= 0.98...Temperature = 16.84 *C...Pressure = 961.92 Pa...Altitude = 411.62
+ m
+Xa= 0.50...Ya= -0.30...Za= 1.63...Temperature = 16.83 *C...Pressure = 962.01 Pa...Altitude = 410.69
+ m
+Xa= 0.38...Ya= -0.16...Za= 1.68...Temperature = 16.82 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= 0.32...Ya= -0.27...Za= 1.22...Temperature = 16.82 *C...Pressure = 961.98 Pa...Altitude = 411.10
+ m
+Xa= -0.21...Ya= -0.11...Za= 0.90...Temperature = 16.81 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= 0.26...Ya= -0.15...Za= 0.94...Temperature = 16.81 *C...Pressure = 962.00 Pa...Altitude = 410.90
+ m
+Xa= 0.20...Ya= 0.00...Za= 0.95...Temperature = 16.79 *C...Pressure = 961.91 Pa...Altitude = 412.33
+ m
+Xa= 0.05...Ya= -0.94...Za= 1.51...Temperature = 16.78 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= -0.13...Ya= -0.05...Za= 1.41...Temperature = 16.77 *C...Pressure = 961.95 Pa...Altitude = 411.38
+ m
+Xa= 0.13...Ya= -0.11...Za= 1.43...Temperature = 16.76 *C...Pressure = 961.99 Pa...Altitude = 410.98
+ m
+Xa= 0.08...Ya= 0.00...Za= 0.73...Temperature = 16.76 *C...Pressure = 962.13 Pa...Altitude = 409.79
+ m
+Xa= 0.39...Ya= -0.14...Za= 0.88...Temperature = 16.75 *C...Pressure = 961.90 Pa...Altitude = 411.84
+ m
+Xa= -0.02...Ya= -0.08...Za= 1.10...Temperature = 16.74 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= -1.13...Ya= -0.07...Za= 2.00...Temperature = 16.74 *C...Pressure = 961.97 Pa...Altitude = 411.16
+ m
+Xa= 0.27...Ya= 0.09...Za= 1.06...Temperature = 16.72 *C...Pressure = 961.99 Pa...Altitude = 410.99
+ m
+Xa= 0.00...Ya= 0.41...Za= 0.97...Temperature = 16.73 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= 0.63...Ya= 0.09...Za= 0.93...Temperature = 16.72 *C...Pressure = 961.96 Pa...Altitude = 411.28
+ m
+Xa= 0.44...Ya= 0.14...Za= 1.06...Temperature = 16.73 *C...Pressure = 961.96 Pa...Altitude = 411.31
+ m
+Xa= 0.23...Ya= 0.13...Za= 0.98...Temperature = 16.72 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.17...Ya= 0.09...Za= 1.00...Temperature = 16.72 *C...Pressure = 961.95 Pa...Altitude = 411.38
+ m
+Xa= -0.04...Ya= -0.01...Za= 1.27...Temperature = 16.72 *C...Pressure = 961.95 Pa...Altitude = 411.35
+ m
+Xa= -0.10...Ya= 0.00...Za= 1.16...Temperature = 16.72 *C...Pressure = 961.99 Pa...Altitude = 411.03
+ m
+Xa= -0.26...Ya= 0.02...Za= 1.06...Temperature = 16.72 *C...Pressure = 961.96 Pa...Altitude = 411.26
+ m
+Xa= -0.16...Ya= 0.03...Za= 1.21...Temperature = 16.71 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= -0.51...Ya= 0.21...Za= 1.07...Temperature = 16.71 *C...Pressure = 961.98 Pa...Altitude = 411.07
+ m
+Xa= -0.33...Ya= 0.34...Za= 1.05...Temperature = 16.70 *C...Pressure = 961.96 Pa...Altitude = 411.26
+ m
+Xa= -0.02...Ya= 0.13...Za= 1.21...Temperature = 16.70 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= -0.36...Ya= 0.27...Za= 1.13...Temperature = 16.70 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= -0.12...Ya= 0.26...Za= 1.09...Temperature = 16.69 *C...Pressure = 961.98 Pa...Altitude = 411.12
+ m
+Xa= -0.11...Ya= 0.23...Za= 1.14...Temperature = 16.69 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.09...Ya= 0.13...Za= 1.29...Temperature = 16.70 *C...Pressure = 961.96 Pa...Altitude = 411.24
+ m
+Xa= -0.05...Ya= 0.36...Za= 1.33...Temperature = 16.69 *C...Pressure = 961.94 Pa...Altitude = 411.43
+ m
+Xa= 0.02...Ya= -0.14...Za= 1.23...Temperature = 16.70 *C...Pressure = 961.96 Pa...Altitude = 411.26
+ m
+Xa= -0.10...Ya= -0.04...Za= 1.34...Temperature = 16.69 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.21...Ya= -0.15...Za= 1.31...Temperature = 16.70 *C...Pressure = 962.00 Pa...Altitude = 410.96
+ m
+Xa= 0.03...Ya= -0.01...Za= 0.37...Temperature = 16.70 *C...Pressure = 961.98 Pa...Altitude = 411.14
+ m
+Xa= 0.15...Ya= -0.16...Za= 1.17...Temperature = 16.70 *C...Pressure = 961.99 Pa...Altitude = 411.01
+ m
+Xa= -0.07...Ya= -0.27...Za= 1.14...Temperature = 16.70 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= 0.29...Ya= -0.06...Za= 1.13...Temperature = 16.70 *C...Pressure = 961.92 Pa...Altitude = 411.63
+ m
+Xa= -0.14...Ya= -0.09...Za= 1.32...Temperature = 16.70 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= 0.29...Ya= -0.12...Za= 1.19...Temperature = 16.70 *C...Pressure = 961.98 Pa...Altitude = 411.14
+ m
+Xa= 0.11...Ya= -0.09...Za= 1.29...Temperature = 16.69 *C...Pressure = 961.98 Pa...Altitude = 411.11
+ m
+Xa= 0.22...Ya= -0.20...Za= 1.19...Temperature = 16.69 *C...Pressure = 961.96 Pa...Altitude = 411.30
+ m
+Xa= 0.07...Ya= -0.08...Za= 1.23...Temperature = 16.69 *C...Pressure = 961.98 Pa...Altitude = 411.08
+ m
+Xa= 0.16...Ya= -0.07...Za= 1.26...Temperature = 16.68 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.05...Ya= -0.07...Za= 1.28...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= 0.10...Ya= 0.03...Za= 1.11...Temperature = 16.68 *C...Pressure = 961.95 Pa...Altitude = 411.33
+ m
+Xa= 0.30...Ya= -0.06...Za= 1.15...Temperature = 16.68 *C...Pressure = 961.95 Pa...Altitude = 411.36
+ m
+Xa= 0.04...Ya= -0.15...Za= 1.28...Temperature = 16.67 *C...Pressure = 962.00 Pa...Altitude = 410.91
+ m
+Xa= 0.22...Ya= -0.11...Za= 1.24...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= 0.02...Ya= -0.09...Za= 1.33...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= 0.22...Ya= -0.11...Za= 1.15...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.21
+ m
+Xa= 0.05...Ya= -0.05...Za= 0.99...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.16
+ m
+Xa= 0.10...Ya= -0.02...Za= 1.15...Temperature = 16.68 *C...Pressure = 962.01 Pa...Altitude = 410.81
+ m
+Xa= 0.10...Ya= -0.14...Za= 1.34...Temperature = 16.67 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= 0.13...Ya= -0.18...Za= 1.30...Temperature = 16.67 *C...Pressure = 961.98 Pa...Altitude = 411.11
+ m
+Xa= 0.04...Ya= -0.08...Za= 1.30...Temperature = 16.68 *C...Pressure = 961.98 Pa...Altitude = 411.07
+ m
+Xa= 0.14...Ya= -0.05...Za= 1.28...Temperature = 16.68 *C...Pressure = 961.96 Pa...Altitude = 411.31
+ m
+Xa= 0.33...Ya= 0.02...Za= 1.54...Temperature = 16.68 *C...Pressure = 961.93 Pa...Altitude = 411.55
+ m
+Xa= 0.16...Ya= -0.13...Za= 1.23...Temperature = 16.68 *C...Pressure = 961.99 Pa...Altitude = 411.03
+ m
+Xa= 0.17...Ya= -0.07...Za= 1.27...Temperature = 16.68 *C...Pressure = 961.95 Pa...Altitude = 411.37
+ m
+Xa= 0.11...Ya= 0.04...Za= 1.23...Temperature = 16.68 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= 0.25...Ya= -0.11...Za= 1.38...Temperature = 16.68 *C...Pressure = 961.99 Pa...Altitude = 411.02
+ m
+Xa= 0.00...Ya= -0.15...Za= 1.50...Temperature = 16.68 *C...Pressure = 962.00 Pa...Altitude = 410.94
+ m
+Xa= 0.20...Ya= -0.07...Za= 1.45...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.16
+ m
+Xa= 0.16...Ya= 0.00...Za= 1.41...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= 0.23...Ya= -0.08...Za= 1.39...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.23
+ m
+Xa= 0.15...Ya= -0.12...Za= 1.15...Temperature = 16.68 *C...Pressure = 961.90 Pa...Altitude = 411.79
+ m
+Xa= -0.01...Ya= 0.04...Za= 0.98...Temperature = 16.68 *C...Pressure = 961.90 Pa...Altitude = 411.82
+ m
+Xa= -0.03...Ya= -0.12...Za= 0.93...Temperature = 16.68 *C...Pressure = 961.95 Pa...Altitude = 411.36
+ m
+Xa= 0.12...Ya= -0.13...Za= 1.41...Temperature = 16.68 *C...Pressure = 961.97 Pa...Altitude = 411.24
+ m
+Xa= 0.19...Ya= -0.15...Za= 1.42...Temperature = 16.68 *C...Pressure = 961.93 Pa...Altitude = 411.52
+ m
+Xa= -0.04...Ya= -0.15...Za= 1.54...Temperature = 16.68 *C...Pressure = 961.96 Pa...Altitude = 411.32
+ m
+Xa= 0.02...Ya= -0.08...Za= 1.29...Temperature = 16.68 *C...Pressure = 961.99 Pa...Altitude = 411.05
+ m
+Xa= 0.18...Ya= -0.24...Za= 1.57...Temperature = 16.67 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.12...Ya= -0.01...Za= 1.32...Temperature = 16.67 *C...Pressure = 961.97 Pa...Altitude = 411.18
+ m
+Xa= 0.02...Ya= -0.09...Za= 1.17...Temperature = 16.66 *C...Pressure = 962.00 Pa...Altitude = 410.96
+ m
+Xa= 0.27...Ya= -0.37...Za= 1.01...Temperature = 16.66 *C...Pressure = 961.95 Pa...Altitude = 411.37
+ m
+Xa= 0.68...Ya= -0.08...Za= 1.06...Temperature = 16.64 *C...Pressure = 961.95 Pa...Altitude = 411.22
+ m
+Xa= 0.02...Ya= 0.01...Za= 0.94...Temperature = 16.64 *C...Pressure = 961.94 Pa...Altitude = 411.43
+ m
+Xa= -0.01...Ya= -0.20...Za= 0.93...Temperature = 16.64 *C...Pressure = 961.97 Pa...Altitude = 411.22
+ m
+Xa= -0.02...Ya= -0.11...Za= 1.18...Temperature = 16.64 *C...Pressure = 961.98 Pa...Altitude = 411.12
+ m
+Xa= -0.05...Ya= 0.12...Za= 1.21...Temperature = 16.63 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= 0.26...Ya= -0.11...Za= 1.32...Temperature = 16.62 *C...Pressure = 961.96 Pa...Altitude = 411.29
+ m
+Xa= 0.11...Ya= -0.12...Za= 1.41...Temperature = 16.61 *C...Pressure = 961.96 Pa...Altitude = 411.26
+ m
+Xa= 0.01...Ya= -0.09...Za= 1.20...Temperature = 16.62 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= 0.26...Ya= -0.12...Za= 1.43...Temperature = 16.61 *C...Pressure = 961.95 Pa...Altitude = 411.34
+ m
+Xa= 0.06...Ya= -0.10...Za= 1.23...Temperature = 16.61 *C...Pressure = 961.98 Pa...Altitude = 411.08
+ m
+Xa= 0.16...Ya= -0.14...Za= 1.13...Temperature = 16.61 *C...Pressure = 961.99 Pa...Altitude = 411.03
+ m
+Xa= 0.16...Ya= -0.01...Za= 1.17...Temperature = 16.61 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= 0.02...Ya= 0.06...Za= 1.29...Temperature = 16.61 *C...Pressure = 961.98 Pa...Altitude = 411.12
+ m
+Xa= 0.06...Ya= 0.09...Za= 1.18...Temperature = 16.61 *C...Pressure = 962.01 Pa...Altitude = 410.84
+ m
+Xa= 0.08...Ya= 0.00...Za= 1.25...Temperature = 16.61 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= 0.25...Ya= -0.06...Za= 1.21...Temperature = 16.61 *C...Pressure = 962.00 Pa...Altitude = 410.89
+ m
+Xa= 0.09...Ya= 0.02...Za= 1.29...Temperature = 16.61 *C...Pressure = 961.98 Pa...Altitude = 411.07
+ m
+Xa= 0.08...Ya= -0.14...Za= 1.23...Temperature = 16.61 *C...Pressure = 961.99 Pa...Altitude = 411.03
+ m
+Xa= 0.21...Ya= -0.27...Za= 1.46...Temperature = 16.61 *C...Pressure = 962.03 Pa...Altitude = 410.67
+ m
+Xa= 0.27...Ya= 0.43...Za= 1.32...Temperature = 16.61 *C...Pressure = 962.01 Pa...Altitude = 410.80
+ m
+Xa= 0.17...Ya= -0.17...Za= 1.25...Temperature = 16.61 *C...Pressure = 962.03 Pa...Altitude = 410.70
+ m
+Xa= 0.05...Ya= -0.32...Za= 1.13...Temperature = 16.61 *C...Pressure = 962.00 Pa...Altitude = 410.93
+ m
+Xa= -0.03...Ya= -0.09...Za= 1.01...Temperature = 16.60 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= 0.18...Ya= 0.00...Za= 0.88...Temperature = 16.60 *C...Pressure = 961.95 Pa...Altitude = 411.34
+ m
+Xa= 0.12...Ya= -0.07...Za= 1.13...Temperature = 16.60 *C...Pressure = 961.96 Pa...Altitude = 411.30
+ m
+Xa= 0.01...Ya= -0.18...Za= 1.50...Temperature = 16.60 *C...Pressure = 961.95 Pa...Altitude = 411.24
+ m
+Xa= 0.34...Ya= -0.11...Za= 1.43...Temperature = 16.60 *C...Pressure = 961.93 Pa...Altitude = 411.56
+ m
+Xa= 0.06...Ya= 0.01...Za= 1.09...Temperature = 16.60 *C...Pressure = 961.94 Pa...Altitude = 411.47
+ m
+Xa= 0.09...Ya= 0.00...Za= 1.12...Temperature = 16.61 *C...Pressure = 961.95 Pa...Altitude = 411.37
+ m
+Xa= 0.27...Ya= -0.04...Za= 1.07...Temperature = 16.60 *C...Pressure = 961.95 Pa...Altitude = 411.37
+ m
+Xa= 0.10...Ya= 0.01...Za= 1.00...Temperature = 16.60 *C...Pressure = 961.98 Pa...Altitude = 411.09
+ m
+Xa= 0.07...Ya= 0.13...Za= 0.90...Temperature = 16.60 *C...Pressure = 961.99 Pa...Altitude = 411.06
+ m
+Xa= 0.14...Ya= -0.07...Za= 1.11...Temperature = 16.60 *C...Pressure = 961.95 Pa...Altitude = 411.37
+ m
+Xa= 0.07...Ya= -0.14...Za= 0.98...Temperature = 16.60 *C...Pressure = 961.98 Pa...Altitude = 411.14
+ m
+Xa= 0.00...Ya= -0.16...Za= 1.18...Temperature = 16.60 *C...Pressure = 961.96 Pa...Altitude = 411.25
+ m
+Xa= 0.17...Ya= -0.22...Za= 1.12...Temperature = 16.60 *C...Pressure = 961.98 Pa...Altitude = 411.07
+ m
+Xa= 0.21...Ya= -0.02...Za= 1.43...Temperature = 16.60 *C...Pressure = 961.98 Pa...Altitude = 411.06
+ m
+Xa= 0.18...Ya= -0.10...Za= 1.40...Temperature = 16.60 *C...Pressure = 961.98 Pa...Altitude = 411.13
+ m
+Xa= 0.14...Ya= -0.09...Za= 1.24...Temperature = 16.60 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= 0.12...Ya= -0.07...Za= 1.29...Temperature = 16.60 *C...Pressure = 962.00 Pa...Altitude = 410.90
+ m
+Xa= 0.04...Ya= -0.20...Za= 1.18...Temperature = 16.60 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= 0.15...Ya= -0.07...Za= 1.16...Temperature = 16.60 *C...Pressure = 962.02 Pa...Altitude = 410.79
+ m
+Xa= 0.16...Ya= -0.04...Za= 1.31...Temperature = 16.60 *C...Pressure = 962.02 Pa...Altitude = 410.77
+ m
+Xa= 0.01...Ya= 0.01...Za= 1.20...Temperature = 16.60 *C...Pressure = 962.01 Pa...Altitude = 410.82
+ m
+Xa= 0.10...Ya= 0.42...Za= 1.24...Temperature = 16.60 *C...Pressure = 962.00 Pa...Altitude = 410.91
+ m
+Xa= 0.36...Ya= -0.19...Za= 1.14...Temperature = 16.60 *C...Pressure = 961.97 Pa...Altitude = 411.20
+ m
+Xa= 0.18...Ya= -0.14...Za= 1.18...Temperature = 16.57 *C...Pressure = 961.96 Pa...Altitude = 411.27
+ m
+Xa= 0.67...Ya= -0.12...Za= 1.06...Temperature = 16.56 *C...Pressure = 960.78 Pa...Altitude = 421.57
+ m
+Xa= 0.00...Ya= -0.42...Za= 1.10...Temperature = 16.54 *C...Pressure = 962.00 Pa...Altitude = 410.97
+ m
+Xa= 0.08...Ya= -0.26...Za= 1.13...Temperature = 16.55 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= 0.22...Ya= -0.66...Za= 1.07...Temperature = 16.55 *C...Pressure = 962.00 Pa...Altitude = 410.92
+ m
+Xa= -0.11...Ya= -1.14...Za= 0.91...Temperature = 16.54 *C...Pressure = 961.99 Pa...Altitude = 411.04
+ m
+Xa= -0.53...Ya= -0.40...Za= -0.51...Temperature = 16.60 *C...Pressure = 961.99 Pa...Altitude = 411.03
+ m
+Xa= -0.31...Ya= 0.05...Za= -0.93...Temperature = 16.80 *C...Pressure = 961.97 Pa...Altitude = 411.17
+ m
+Xa= -0.38...Ya= -0.34...Za= -0.47...Temperature = 16.88 *C...Pressure = 961.97 Pa...Altitude = 411.19
+ m
+Xa= -0.76...Ya= 0.53...Za= -0.34...Temperature = 17.07 *C...Pressure = 962.04 Pa...Altitude = 410.58
+ m
+Xa= -0.24...Ya= -0.12...Za= -0.61...Temperature = 17.13 *C...Pressure = 962.11 Pa...Altitude = 409.99
+ m
+Xa= -0.75...Ya= -0.48...Za= -0.34...Temperature = 17.16 *C...Pressure = 962.10 Pa...Altitude = 410.07
+ m
+Xa= -1.06...Ya= -1.14...Za= 0.55...Temperature = 17.18 *C...Pressure = 962.14 Pa...Altitude = 409.74
+ m
+Xa= 0.23...Ya= -0.06...Za= 1.16...Temperature = 17.16 *C...Pressure = 962.08 Pa...Altitude = 410.24
+ m
+Xa= -0.86...Ya= -0.73...Za= 0.43...Temperature = 17.15 *C...Pressure = 962.12 Pa...Altitude = 409.89
+ m
+Xa= -0.58...Ya= -0.83...Za= -0.13...Temperature = 17.17 *C...Pressure = 962.09 Pa...Altitude = 410.13
+ m
