@@ -1,4 +1,4 @@
-# Rocket CanSat 2025
+# Rocket CanSat 2024
 
 A modular telemetry and environmental-monitoring payload for educational rockets and CanSat/CubeSat prototypes. The repository preserves the complete V1 development history: onboard firmware, a ground receiver, test sketches, wiring, logs and presentation materials.
 
